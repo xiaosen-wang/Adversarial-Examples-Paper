@@ -18,7 +18,7 @@ This part would add soon.
 
 #### Character-Level
 
-This part would add soon.
+**[1]** Javid Ebrahimi, Anyi Rao, Daniel Lowd and Dejing Dou. [HotFlip: White-Box Adversarial Examples for Text Classification](https://arxiv.org/abs/1712.06751). ACL 2018.
 
 #### Word-Level
 
@@ -38,11 +38,9 @@ This part would add soon.
 
 ### Adversarial Defense
 
-This part would add soon.
-
 #### Character-Level
 
-This part would add soon.
+**[1]** Danish Pruthi, Bhuwan Dhingra and Zachary C. Lipton. [Combating Adversarial Misspellings with Robust Word Recognition](https://arxiv.org/abs/1905.11268). ACL 2019.
 
 #### Word-Level
 
