@@ -36,6 +36,8 @@ This part would add soon.
 
 **[1]** Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li and Wenchang Shi. [Deep textclassification can be fooled](https://arxiv.org/abs/1704.08006). IJCAI 2018. 
 
+**[2]** Jinfeng Li, Shouling Ji, Tianyu Du, Bo Li and Ting Wang. [TextBugger: Generating Adversarial Text Against Real-world Applications](https://arxiv.org/abs/1812.05271). NDSS 2019.
+
 ### Adversarial Defense
 
 #### Character-Level
@@ -44,7 +46,7 @@ This part would add soon.
 
 #### Word-Level
 
-This part would add soon.
+**[1]** Ishai Rosenberg, Asaf Shabtai, Yuval Elovici and Lior Rokach. [Defense Methods Against Adversarial Examples for Recurrent Neural Networks](https://arxiv.org/abs/1901.09963). arXiv Preprint arXiv:1901.09963 2019.
 
 #### Both
 
