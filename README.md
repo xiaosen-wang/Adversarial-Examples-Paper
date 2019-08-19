@@ -24,6 +24,8 @@
 
 ## Adversarial Examples in Natural Language Processing
 
+[Newest paper](./NLP.md)
+
 ### Adversarial Attack
 
 #### Character-Level
@@ -42,11 +44,17 @@
 
 **[5]** Huangzhao Zhang, Hao Zhou, Ning Miao and Lei Li. [Generating Fluent Adversarial Examples for Natural Languages](https://www.aclweb.org/anthology/P19-1559). ACL 2019.
 
+**[6]** Yi-Ting Tsai, Min-Chu Yang and Han-Yu Chen. [Adversarial Attack on Sentiment Classification](https://www.aclweb.org/anthology/W19-4824). ACL workshop 2019.
+
 #### Both
 
 **[1]** Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li and Wenchang Shi. [Deep textclassification can be fooled](https://arxiv.org/abs/1704.08006). IJCAI 2018. 
 
 **[2]** Jinfeng Li, Shouling Ji, Tianyu Du, Bo Li and Ting Wang. [TextBugger: Generating Adversarial Text Against Real-world Applications](https://arxiv.org/abs/1812.05271). NDSS 2019.
+
+#### Universal Adversarial Examples
+
+**[1]** Di Li, Danilo Vasconcellos Vargas and Sakurai Kouichi. [Universal Rules for Fooling Deep Neural Networks based Text Classification](https://arxiv.org/abs/1901.07132). CEC 2019.
 
 ### Adversarial Defense
 
