@@ -16,6 +16,10 @@
 
 **[2]** Xiaosen Wang, Kun He and John E. Hopcroft. [AT-GAN: A Generative Attack Model for Adversarial Transferring on Generative Adversarial Nets](https://arxiv.org/abs/1904.07793). arXiv Preprint arXiv:1904.07793.
 
+#### Unrecognized Images
+
+**[1]** Anh Nguyen, Jason Yosinski and Jeff Clune. [Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images](https://arxiv.org/abs/1412.1897). CVPR 2015.
+
 ### Adversarial Defense
 
 #### Adversarial Training
