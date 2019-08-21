@@ -2,6 +2,8 @@
 
 ## Adversarial Examples in Computer Vision
 
+[Newest paper](./CV.md)
+
 ### Adversarial Attack
 
 **[1]** Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow and Rob Fergus. [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199). ICLR 2014.
@@ -16,7 +18,7 @@
 
 **[2]** Xiaosen Wang, Kun He and John E. Hopcroft. [AT-GAN: A Generative Attack Model for Adversarial Transferring on Generative Adversarial Nets](https://arxiv.org/abs/1904.07793). arXiv Preprint arXiv:1904.07793.
 
-#### Unrecognized Images
+### Unrecognized Images
 
 **[1]** Anh Nguyen, Jason Yosinski and Jeff Clune. [Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images](https://arxiv.org/abs/1412.1897). CVPR 2015.
 
@@ -25,6 +27,8 @@
 #### Adversarial Training
 
 **[1]** Ian J. Goodfellow, Jonathon Shlens and Christian Szegedy. [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572). ICLR 2015.
+
+**[2]** Runtian Zhai, Tianle Cai, Di He, Chen Dan, Kun He, John Hopcroft and Liwei Wang. [Adversarially Robust Generalization Just Requires More Unlabeled Data](https://arxiv.org/abs/1906.00555) arXiv Preprint arXiv:1906.00555.
 
 ## Adversarial Examples in Natural Language Processing
 
