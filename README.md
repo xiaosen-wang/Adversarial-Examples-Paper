@@ -1,5 +1,9 @@
 # The Papers of Adversarial Examples
 
+## Survey
+
+**[1]** Wei Emma Zhang, Quan Z. Sheng, Ahoud Alhazmi and Chenliang Li. [Adversarial Attacks on Deep Learning Models in Natural Language Processing: A Survey](https://arxiv.org/abs/1901.06796). arXiv Preprint arXiv:1901.06796 2019.
+
 ## Adversarial Examples in Computer Vision
 
 [Newest paper](./CV.md)
