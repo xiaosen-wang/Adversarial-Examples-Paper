@@ -16,6 +16,12 @@
 
 **[1]** Ian J. Goodfellow, Jonathon Shlens and Christian Szegedy. [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572). ICLR 2015.
 
+#### GAN-Based Attack
+
+**[1]** Yang Song, Rui Shu, Nate Kushman and Stefano Ermon. [Constructing Unrestricted Adversarial Examples with Generative Models](https://arxiv.org/abs/1805.07894). NeurIPS 2018.
+
+**[2]** Xiaosen Wang, Kun He and John E. Hopcroft. [AT-GAN: A Generative Attack Model for Adversarial Transferring on Generative Adversarial Nets](https://arxiv.org/abs/1904.07793). arXiv Preprint arXiv:1904.07793.
+
 #### Unrestricted Adversarial Examples
 
 **[1]** Yang Song, Rui Shu, Nate Kushman and Stefano Ermon. [Constructing Unrestricted Adversarial Examples with Generative Models](https://arxiv.org/abs/1805.07894). NeurIPS 2018.
@@ -33,6 +39,10 @@
 **[1]** Ian J. Goodfellow, Jonathon Shlens and Christian Szegedy. [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572). ICLR 2015.
 
 **[2]** Runtian Zhai, Tianle Cai, Di He, Chen Dan, Kun He, John Hopcroft and Liwei Wang. [Adversarially Robust Generalization Just Requires More Unlabeled Data](https://arxiv.org/abs/1906.00555) arXiv Preprint arXiv:1906.00555.
+
+#### GAN-Based Defense
+
+**[1]** Yang Song, Taesup Kim, Sebastian Nowozin, Stefano Ermon and Nate Kushman. [PixelDefend: Leveraging Generative Models to Understand and Defend against Adversarial Examples](https://arxiv.org/abs/1710.10766) ICLR 2018.
 
 ## Adversarial Examples in Natural Language Processing
 
