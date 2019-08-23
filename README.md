@@ -51,6 +51,8 @@ Yang Song, Rui Shu, Nate Kushman and Stefano Ermon. [Constructing Unrestricted A
 
 **[2]** Yang Song, Taesup Kim, Sebastian Nowozin, Stefano Ermon and Nate Kushman. [PixelDefend: Leveraging Generative Models to Understand and Defend against Adversarial Examples](https://arxiv.org/abs/1710.10766) ICLR 2018.
 
+**[3]** Guoqing Jin, Shiwei Shen, Dongming Zhang, Feng Dai and Yongdong Zhang. [APE-GAN: Adversarial Perturbation Elimination with GAN](https://arxiv.org/abs/1707.05474). ICASSP 2019.
+
 ## Adversarial Examples in Natural Language Processing
 
 [Newest paper](./NLP.md)
