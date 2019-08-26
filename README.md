@@ -16,6 +16,8 @@
 
 **[1]** Ian J. Goodfellow, Jonathon Shlens and Christian Szegedy. [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572). ICLR 2015.
 
+**[2]** Jiadong Lin, Chuanbiao Song, Kun He, Liwei Wang, John E. Hopcroft. [Nesterov Accelerated Gradient and Scale Invariance for Improving Transferability of Adversarial Examples](https://arxiv.org/abs/1908.06281) arXiv Preprint arXiv:1908.06281
+
 #### GAN-Based Attack
 
 **[1]** Hyrum S. Anderson, Jonathan Woodbridge and Bobby Filar. [DeepDGA: Adversarially-Tuned Domain Generation and Detection](https://arxiv.org/abs/1610.01969) AISec 2016.
