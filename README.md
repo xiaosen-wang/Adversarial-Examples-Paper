@@ -1,9 +1,5 @@
 # The Papers of Adversarial Examples
 
-## Survey
-
-**[1]** Wei Emma Zhang, Quan Z. Sheng, Ahoud Alhazmi and Chenliang Li. [Adversarial Attacks on Deep Learning Models in Natural Language Processing: A Survey](https://arxiv.org/abs/1901.06796). arXiv Preprint arXiv:1901.06796 2019.
-
 ## Adversarial Examples in Computer Vision
 
 [Newest paper](./CV.md)
@@ -16,7 +12,7 @@
 
 **[1]** Ian J. Goodfellow, Jonathon Shlens and Christian Szegedy. [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572). ICLR 2015.
 
-**[2]** Jiadong Lin, Chuanbiao Song, Kun He, Liwei Wang, John E. Hopcroft. [Nesterov Accelerated Gradient and Scale Invariance for Improving Transferability of Adversarial Examples](https://arxiv.org/abs/1908.06281) arXiv Preprint arXiv:1908.06281
+**[2]** Jiadong Lin, Chuanbiao Song, Kun He, Liwei Wang, John E. Hopcroft. [Nesterov Accelerated Gradient and Scale Invariance for Improving Transferability of Adversarial Examples](https://arxiv.org/abs/1908.06281). arXiv Preprint arXiv:1908.06281 2019.
 
 #### GAN-Based Attack
 
@@ -57,13 +53,21 @@ Yang Song, Rui Shu, Nate Kushman and Stefano Ermon. [Constructing Unrestricted A
 
 ## Adversarial Examples in Natural Language Processing
 
+### Survey
+
+**[1]** Wei Emma Zhang, Quan Z. Sheng, Ahoud Alhazmi and Chenliang Li. [Adversarial Attacks on Deep Learning Models in Natural Language Processing: A Survey](https://arxiv.org/abs/1901.06796). arXiv Preprint arXiv:1901.06796 2019.
+
+**[2]** Wenqi Wang, Lina Wang, Benxiao Tang, Run Wang and Aoshuang Ye. [Towards a Robust Deep Neural Network in Text Domain A Survey](https://arxiv.org/abs/1902.07285). arXiv Preprint arXiv:1902.07285 2019.
 [Newest paper](./NLP.md)
 
 ### Adversarial Attack
 
+
 #### Character-Level
 
 **[1]** Javid Ebrahimi, Anyi Rao, Daniel Lowd and Dejing Dou. [HotFlip: White-Box Adversarial Examples for Text Classification](https://arxiv.org/abs/1712.06751). ACL 2018.
+
+**[2]** Ji Gao, Jack Lanchantin, Mary Lou Soffa and Yanjun Qi. [Black-box Generation of Adversarial Text Sequences to Evade Deep Learning Classifiers](https://arxiv.org/abs/1801.04354). IEEE S&P workshop 2018.
 
 #### Word-Level
 
@@ -79,15 +83,22 @@ Yang Song, Rui Shu, Nate Kushman and Stefano Ermon. [Constructing Unrestricted A
 
 **[6]** Yi-Ting Tsai, Min-Chu Yang and Han-Yu Chen. [Adversarial Attack on Sentiment Classification](https://www.aclweb.org/anthology/W19-4824). ACL workshop 2019.
 
+**[7]** Samuel Barham and Soheil Feizi. [Interpretable Adversarial Training for Text](https://arxiv.org/abs/1905.12864) arXiv Preprint arXiv:1905.12864 2019.
+
+**[8]** Di Jin, Zhijing Jin, Joey Tianyi Zhou and Peter Szolovits. [Is BERT Really Robust? Natural Language Attack on Text Classification and Entailment](https://arxiv.org/abs/1907.11932) arXiv Preprint arXiv:1907.11932 2019.
+
 #### Both
 
 **[1]** Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li and Wenchang Shi. [Deep textclassification can be fooled](https://arxiv.org/abs/1704.08006). IJCAI 2018. 
 
 **[2]** Jinfeng Li, Shouling Ji, Tianyu Du, Bo Li and Ting Wang. [TextBugger: Generating Adversarial Text Against Real-world Applications](https://arxiv.org/abs/1812.05271). NDSS 2019.
 
+
 #### Universal Adversarial Examples
 
 **[1]** Di Li, Danilo Vasconcellos Vargas and Sakurai Kouichi. [Universal Rules for Fooling Deep Neural Networks based Text Classification](https://arxiv.org/abs/1901.07132). CEC 2019.
+
+**[2]** Melika Behjati, Seyed-Mohsen Moosavi-Dezfooli, Mahdieh Soleymani Baghshah and Pascal Frossard. [Universal Adversarial Attacks on Text Classifiers](https://ieeexplore.ieee.org/document/8682430/authors#authors). ICASSP 2019.
 
 ### Adversarial Defense
 
