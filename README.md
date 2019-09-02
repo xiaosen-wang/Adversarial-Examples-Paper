@@ -45,6 +45,10 @@ Yang Song, Rui Shu, Nate Kushman and Stefano Ermon. [Constructing Unrestricted A
 
 **[2]** Runtian Zhai, Tianle Cai, Di He, Chen Dan, Kun He, John Hopcroft and Liwei Wang. [Adversarially Robust Generalization Just Requires More Unlabeled Data](https://arxiv.org/abs/1906.00555) arXiv Preprint arXiv:1906.00555.
 
+
+**[3]** Yair Carmon, Aditi Raghunathan, Ludwig Schmidt, Percy Liang and John C. Duchi. [Unlabeled Data Improves Adversarial Robustness](https://arxiv.org/abs/1905.13736). arXiv Preprint arXiv:1905.13736.
+
+**[4]** Jonathan Uesato, Jean-Baptiste Alayrac, Po-Sen Huang, Robert Stanforth, Alhussein Fawzi and Pushmeet Kohli. [Are Labels Required for Improving Adversarial Robustness?](https://arxiv.org/abs/1905.13725). arXiv Preprint arXiv:1905.13725.
 #### GAN-Based Defense
 
 **[1]** Pouya Samangouei, Maya Kabkab and Rama Chellappa. [Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models](https://arxiv.org/abs/1805.06605). ICLR 2018.
