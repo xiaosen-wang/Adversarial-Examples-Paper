@@ -16,6 +16,8 @@
 
 **[3]** Jiadong Lin, Chuanbiao Song, Kun He, Liwei Wang, John E. Hopcroft. [Nesterov Accelerated Gradient and Scale Invariance for Improving Transferability of Adversarial Examples](https://arxiv.org/abs/1908.06281). arXiv Preprint arXiv:1908.06281 2019.
 
+**[4]** Lei Wu, Zhanxing Zhu, Cheng Tai and Weinan E. [Enhancing the Transferability of Adversarial Examples with Noise Reduced Gradient](https://arxiv.org/abs/1802.09707). ICLR 2018 rejected. 
+
 #### GAN-Based Attack
 
 **[1]** Hyrum S. Anderson, Jonathan Woodbridge and Bobby Filar. [DeepDGA: Adversarially-Tuned Domain Generation and Detection](https://arxiv.org/abs/1610.01969) AISec 2016.
@@ -23,9 +25,9 @@
 **[2]** Chaowei Xiao, Bo Li, Jun-Yan Zhu, Warren He, Mingyan Liu and Dawn Song. [Generating Adversarial Examples with Adversarial Networks](https://arxiv.org/abs/1801.02610). IJCAI 2018.
 
 
-Yang Song, Rui Shu, Nate Kushman and Stefano Ermon. [Constructing Unrestricted Adversarial Examples with Generative Models](https://arxiv.org/abs/1805.07894). NeurIPS 2018.
+**[3]** Yang Song, Rui Shu, Nate Kushman and Stefano Ermon. [Constructing Unrestricted Adversarial Examples with Generative Models](https://arxiv.org/abs/1805.07894). NeurIPS 2018.
 
-**[2]** Xiaosen Wang, Kun He and John E. Hopcroft. [AT-GAN: A Generative Attack Model for Adversarial Transferring on Generative Adversarial Nets](https://arxiv.org/abs/1904.07793). arXiv Preprint arXiv:1904.07793.
+**[4]** Xiaosen Wang, Kun He and John E. Hopcroft. [AT-GAN: A Generative Attack Model for Adversarial Transferring on Generative Adversarial Nets](https://arxiv.org/abs/1904.07793). arXiv Preprint arXiv:1904.07793.
 
 #### Unrestricted Adversarial Examples
 
