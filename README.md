@@ -95,6 +95,8 @@
 
 **[8]** Di Jin, Zhijing Jin, Joey Tianyi Zhou and Peter Szolovits. [Is BERT Really Robust? Natural Language Attack on Text Classification and Entailment](https://arxiv.org/abs/1907.11932) arXiv Preprint arXiv:1907.11932 2019.
 
+**[9]** Xiaosen Wang, Hao Jin and Kun He. [Natural Language Adversarial Attacks and Defenses in Word Level](https://arxiv.org/abs/1909.06723)arXiv Preprint arXiv:1909.06723 2019.
+
 #### Both
 
 **[1]** Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li and Wenchang Shi. [Deep textclassification can be fooled](https://arxiv.org/abs/1704.08006). IJCAI 2018. 
@@ -117,6 +119,8 @@
 #### Word-Level
 
 **[1]** Ishai Rosenberg, Asaf Shabtai, Yuval Elovici and Lior Rokach. [Defense Methods Against Adversarial Examples for Recurrent Neural Networks](https://arxiv.org/abs/1901.09963). arXiv Preprint arXiv:1901.09963 2019.
+
+**[2]** Xiaosen Wang, Hao Jin and Kun He. [Natural Language Adversarial Attacks and Defenses in Word Level](https://arxiv.org/abs/1909.06723)arXiv Preprint arXiv:1909.06723 2019.
 
 #### Both
 

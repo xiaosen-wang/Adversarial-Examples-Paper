@@ -2,10 +2,11 @@
 
 
 ## ArXiv
+**[1]** Xiaosen Wang, Hao Jin and Kun He. [Natural Language Adversarial Attacks and Defenses in Word Level](https://arxiv.org/abs/1909.06723)arXiv Preprint arXiv:1909.06723 2019.
 
-**[1]** Samuel Barham and Soheil Feizi. [Interpretable Adversarial Training for Text](https://arxiv.org/abs/1905.12864) arXiv Preprint arXiv:1905.12864 2019.
+**[2]** Samuel Barham and Soheil Feizi. [Interpretable Adversarial Training for Text](https://arxiv.org/abs/1905.12864) arXiv Preprint arXiv:1905.12864 2019.
 
-**[2]** Di Jin, Zhijing Jin, Joey Tianyi Zhou and Peter Szolovits. [Is BERT Really Robust? Natural Language Attack on Text Classification and Entailment](https://arxiv.org/abs/1907.11932) arXiv Preprint arXiv:1907.11932 2019.
+**[3]** Di Jin, Zhijing Jin, Joey Tianyi Zhou and Peter Szolovits. [Is BERT Really Robust? Natural Language Attack on Text Classification and Entailment](https://arxiv.org/abs/1907.11932) arXiv Preprint arXiv:1907.11932 2019.
 
 ## ACL 2019
 
