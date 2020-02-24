@@ -125,3 +125,7 @@
 #### Both
 
 **[1]** Nestor Rodriguez and Sergio Rojas-Galeano. [Shielding Google's language toxicity model against adversarial attacks](https://arxiv.org/abs/1801.01828). arXiv Preprint arXiv:1801.01828 2018.
+
+#### Certified defense
+
+**[1]** Robin Jia, Aditi Raghunathan, Kerem Göksel and Percy Liang. [Certified Robustness to Adversarial Word Substitutions](https://arxiv.org/abs/1909.00986). EMNLP 2019.
