@@ -1,5 +1,7 @@
 # The Papers of Adversarial Examples
 
+[A Complete List of All (arXiv) Adversarial Example Papers](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html)
+
 ## Adversarial Examples in Computer Vision
 
 [Newest paper](./CV.md)
@@ -27,7 +29,9 @@
 
 **[3]** Yang Song, Rui Shu, Nate Kushman and Stefano Ermon. [Constructing Unrestricted Adversarial Examples with Generative Models](https://arxiv.org/abs/1805.07894). NeurIPS 2018.
 
-**[4]** Xiaosen Wang, Kun He and John E. Hopcroft. [AT-GAN: A Generative Attack Model for Adversarial Transferring on Generative Adversarial Nets](https://arxiv.org/abs/1904.07793). arXiv Preprint arXiv:1904.07793.
+**[4]** Xiaosen Wang, Kun He and John E. Hopcroft. [AT-GAN: A Generative Attack Model for Adversarial Transferring on Generative Adversarial Nets](https://arxiv.org/abs/1904.07793). arXiv Preprint arXiv:1904.07793 2019.
+
+**[5]** Tao Bai, Jun Zhao, Jinlin Zhu, Shoudong Han, Jiefeng Chen and Bo Li. [AI-GAN: Attack-Inspired Generation of Adversarial Examples](https://arxiv.org/abs/2002.02196). arXiv Preprint arXiv:2002.02196 2020.
 
 #### Unrestricted Adversarial Examples
 
@@ -66,6 +70,7 @@
 **[1]** Wei Emma Zhang, Quan Z. Sheng, Ahoud Alhazmi and Chenliang Li. [Adversarial Attacks on Deep Learning Models in Natural Language Processing: A Survey](https://arxiv.org/abs/1901.06796). arXiv Preprint arXiv:1901.06796 2019.
 
 **[2]** Wenqi Wang, Lina Wang, Benxiao Tang, Run Wang and Aoshuang Ye. [Towards a Robust Deep Neural Network in Text Domain A Survey](https://arxiv.org/abs/1902.07285). arXiv Preprint arXiv:1902.07285 2019.
+
 [Newest paper](./NLP.md)
 
 ### Adversarial Attack
@@ -95,7 +100,7 @@
 
 **[8]** Di Jin, Zhijing Jin, Joey Tianyi Zhou and Peter Szolovits. [Is BERT Really Robust? Natural Language Attack on Text Classification and Entailment](https://arxiv.org/abs/1907.11932) arXiv Preprint arXiv:1907.11932 2019.
 
-**[9]** Xiaosen Wang, Hao Jin and Kun He. [Natural Language Adversarial Attacks and Defenses in Word Level](https://arxiv.org/abs/1909.06723)arXiv Preprint arXiv:1909.06723 2019.
+**[9]** Xiaosen Wang, Hao Jin and Kun He. [Natural Language Adversarial Attacks and Defenses in Word Level](https://arxiv.org/abs/1909.06723). arXiv Preprint arXiv:1909.06723 2019.
 
 #### Both
 
@@ -120,7 +125,7 @@
 
 **[1]** Ishai Rosenberg, Asaf Shabtai, Yuval Elovici and Lior Rokach. [Defense Methods Against Adversarial Examples for Recurrent Neural Networks](https://arxiv.org/abs/1901.09963). arXiv Preprint arXiv:1901.09963 2019.
 
-**[2]** Xiaosen Wang, Hao Jin and Kun He. [Natural Language Adversarial Attacks and Defenses in Word Level](https://arxiv.org/abs/1909.06723)arXiv Preprint arXiv:1909.06723 2019.
+**[2]** Xiaosen Wang, Hao Jin and Kun He. [Natural Language Adversarial Attacks and Defenses in Word Level](https://arxiv.org/abs/1909.06723). arXiv Preprint arXiv:1909.06723 2019.
 
 #### Both
 
