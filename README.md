@@ -55,6 +55,8 @@
 **[3]** Yair Carmon, Aditi Raghunathan, Ludwig Schmidt, Percy Liang and John C. Duchi. [Unlabeled Data Improves Adversarial Robustness](https://arxiv.org/abs/1905.13736). arXiv Preprint arXiv:1905.13736.
 
 **[4]** Jonathan Uesato, Jean-Baptiste Alayrac, Po-Sen Huang, Robert Stanforth, Alhussein Fawzi and Pushmeet Kohli. [Are Labels Required for Improving Adversarial Robustness?](https://arxiv.org/abs/1905.13725). arXiv Preprint arXiv:1905.13725.
+
+**[5]** Chuanbiao Song, Kun He, Liwei Wang and John E. Hopcroft. [Improving the Generalization of Adversarial Training with Domain Adaptation ](https://openreview.net/forum?id=SyfIfnC5Ym). ICLR 2019.
 #### GAN-Based Defense
 
 **[1]** Pouya Samangouei, Maya Kabkab and Rama Chellappa. [Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models](https://arxiv.org/abs/1805.06605). ICLR 2018.
@@ -62,6 +64,10 @@
 **[2]** Yang Song, Taesup Kim, Sebastian Nowozin, Stefano Ermon and Nate Kushman. [PixelDefend: Leveraging Generative Models to Understand and Defend against Adversarial Examples](https://arxiv.org/abs/1710.10766) ICLR 2018.
 
 **[3]** Guoqing Jin, Shiwei Shen, Dongming Zhang, Feng Dai and Yongdong Zhang. [APE-GAN: Adversarial Perturbation Elimination with GAN](https://arxiv.org/abs/1707.05474). ICASSP 2019.
+
+### Certified defense
+
+**[1]** 
 
 ## Adversarial Examples in Natural Language Processing
 
