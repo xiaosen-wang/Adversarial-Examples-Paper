@@ -67,7 +67,7 @@
 
 ### Certified defense
 
-**[1]** 
+**[1]** Eric Wong and J. Zico Kolter. [Provable defenses against adversarial examples via the convex outer adversarial polytope](https://arxiv.org/abs/1711.00851). ICML 2017.
 
 ## Adversarial Examples in Natural Language Processing
 
