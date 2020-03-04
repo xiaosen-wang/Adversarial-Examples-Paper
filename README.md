@@ -69,6 +69,12 @@
 
 **[1]** Eric Wong and J. Zico Kolter. [Provable defenses against adversarial examples via the convex outer adversarial polytope](https://arxiv.org/abs/1711.00851). ICML 2017.
 
+**[2]** Sven Gowal, Krishnamurthy Dvijotham, Robert Stanforth, Rudy Bunel, Chongli Qin, Jonathan Uesato, Relja Arandjelovic, Timothy Mann and Pushmeet Kohli. [Scalable Verified Training for Provably Robust Image Classification](http://openaccess.thecvf.com/content_ICCV_2019/supplemental/Gowal_Scalable_Verified_Training_ICCV_2019_supplemental.pdf). ICCV 2019.
+
+**[3]** Jeremy M Cohen, Elan Rosenfeld and J. Zico Kolter. [Certified Adversarial Robustness via Randomized Smoothing](https://arxiv.org/abs/1902.02918). ICML 2019.
+
+**[4]** Guang-He Lee, Yang Yuan, Shiyu Chang and Tommi S. Jaakkola. [Tight Certificates of Adversarial Robustness for Randomly Smoothed Classifiers](https://arxiv.org/abs/1906.04948). NeurIPS 2019.
+
 ## Adversarial Examples in Natural Language Processing
 
 ### Survey
