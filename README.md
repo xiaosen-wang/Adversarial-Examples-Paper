@@ -65,7 +65,7 @@
 
 **[3]** Guoqing Jin, Shiwei Shen, Dongming Zhang, Feng Dai and Yongdong Zhang. [APE-GAN: Adversarial Perturbation Elimination with GAN](https://arxiv.org/abs/1707.05474). ICASSP 2019.
 
-### Certified defense
+#### Certified defense
 
 **[1]** Eric Wong and J. Zico Kolter. [Provable defenses against adversarial examples via the convex outer adversarial polytope](https://arxiv.org/abs/1711.00851). ICML 2017.
 
@@ -74,6 +74,9 @@
 **[3]** Jeremy M Cohen, Elan Rosenfeld and J. Zico Kolter. [Certified Adversarial Robustness via Randomized Smoothing](https://arxiv.org/abs/1902.02918). ICML 2019.
 
 **[4]** Guang-He Lee, Yang Yuan, Shiyu Chang and Tommi S. Jaakkola. [Tight Certificates of Adversarial Robustness for Randomly Smoothed Classifiers](https://arxiv.org/abs/1906.04948). NeurIPS 2019.
+
+#### Others
+Matthew J. Roos. [Utilizing a null class to restrict decision spaces and defend against neural network adversarial attacks](https://arxiv.org/abs/2002.10084). arXiv Preprint arXiv:2002.10084.
 
 ## Adversarial Examples in Natural Language Processing
 
