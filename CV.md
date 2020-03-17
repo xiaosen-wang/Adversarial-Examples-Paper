@@ -12,3 +12,5 @@ Runtian Zhai, Tianle Cai, Di He, Chen Dan, Kun He, John Hopcroft and Liwei Wang.
 Yair Carmon, Aditi Raghunathan, Ludwig Schmidt, Percy Liang and John C. Duchi. [Unlabeled Data Improves Adversarial Robustness](https://arxiv.org/abs/1905.13736). arXiv Preprint arXiv:1905.13736.
 
 Jonathan Uesato, Jean-Baptiste Alayrac, Po-Sen Huang, Robert Stanforth, Alhussein Fawzi and Pushmeet Kohli. [Are Labels Required for Improving Adversarial Robustness?](https://arxiv.org/abs/1905.13725). arXiv Preprint arXiv:1905.13725.
+
+Alvin Chan, Yi Tay, Yew Soon Ong and Jie Fu. [Jacobian Adversarially Regularized Networks for Robustness](https://arxiv.org/abs/1912.10185). ICLR 2020.

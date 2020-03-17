@@ -78,6 +78,8 @@
 #### Others
 Matthew J. Roos. [Utilizing a null class to restrict decision spaces and defend against neural network adversarial attacks](https://arxiv.org/abs/2002.10084). arXiv Preprint arXiv:2002.10084.
 
+Alvin Chan, Yi Tay, Yew Soon Ong and Jie Fu. [Jacobian Adversarially Regularized Networks for Robustness](https://arxiv.org/abs/1912.10185). ICLR 2020.
+
 ## Adversarial Examples in Natural Language Processing
 
 ### Survey
