@@ -76,9 +76,11 @@
 **[4]** Guang-He Lee, Yang Yuan, Shiyu Chang and Tommi S. Jaakkola. [Tight Certificates of Adversarial Robustness for Randomly Smoothed Classifiers](https://arxiv.org/abs/1906.04948). NeurIPS 2019.
 
 #### Others
-Matthew J. Roos. [Utilizing a null class to restrict decision spaces and defend against neural network adversarial attacks](https://arxiv.org/abs/2002.10084). arXiv Preprint arXiv:2002.10084.
+**[1]** Matthew J. Roos. [Utilizing a null class to restrict decision spaces and defend against neural network adversarial attacks](https://arxiv.org/abs/2002.10084). arXiv Preprint arXiv:2002.10084 2020.
 
-Alvin Chan, Yi Tay, Yew Soon Ong and Jie Fu. [Jacobian Adversarially Regularized Networks for Robustness](https://arxiv.org/abs/1912.10185). ICLR 2020.
+**[2]** Alvin Chan, Yi Tay, Yew Soon Ong and Jie Fu. [Jacobian Adversarially Regularized Networks for Robustness](https://arxiv.org/abs/1912.10185). ICLR 2020.
+
+**[3]** Christian Etmann, Sebastian Lunz, Peter Maass and Carola-Bibiane Schönlieb. [On the Connection Between Adversarial Robustness and Saliency Map Interpretability](https://arxiv.org/abs/1905.04172). ICML 2019.
 
 ## Adversarial Examples in Natural Language Processing
 
