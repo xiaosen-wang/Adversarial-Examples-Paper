@@ -20,6 +20,8 @@
 
 **[4]** Lei Wu, Zhanxing Zhu, Cheng Tai and Weinan E. [Enhancing the Transferability of Adversarial Examples with Noise Reduced Gradient](https://arxiv.org/abs/1802.09707). ICLR 2018 rejected. 
 
+**[4]** Yinpeng Dong, Fangzhou Liao, Tianyu Pang, Hang Su, Jun Zhu, Xiaolin Hu and Jianguo Li. [Boosting Adversarial Attacks with Momentum](https://arxiv.org/abs/1710.06081). CVPR 2018.
+
 #### GAN-Based Attack
 
 **[1]** Hyrum S. Anderson, Jonathan Woodbridge and Bobby Filar. [DeepDGA: Adversarially-Tuned Domain Generation and Detection](https://arxiv.org/abs/1610.01969) AISec 2016.
