@@ -59,6 +59,10 @@
 **[4]** Jonathan Uesato, Jean-Baptiste Alayrac, Po-Sen Huang, Robert Stanforth, Alhussein Fawzi and Pushmeet Kohli. [Are Labels Required for Improving Adversarial Robustness?](https://arxiv.org/abs/1905.13725). arXiv Preprint arXiv:1905.13725.
 
 **[5]** Chuanbiao Song, Kun He, Liwei Wang and John E. Hopcroft. [Improving the Generalization of Adversarial Training with Domain Adaptation ](https://openreview.net/forum?id=SyfIfnC5Ym). ICLR 2019.
+
+**[6]** Hang Yu, Aishan Liu, Xianglong Liu, Gengchao Li, Ping Luo, Ran Cheng, Jichen Yang and Chongzhi Zhang. [PDA: Progressive Data Augmentation for General Robustness of Deep Neural Networks](https://arxiv.org/abs/1909.04839). arXiv Preprint arXiv:1909.04839.
+
+**[7]** Chuanbiao Song, Kun He, Jiadong Lin, Liwei Wang and John E. Hopcroft. [Robust Local Features for Improving the Generalization of Adversarial Training](https://arxiv.org/abs/1909.10147). ICLR 2020.
 #### GAN-Based Defense
 
 **[1]** Pouya Samangouei, Maya Kabkab and Rama Chellappa. [Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models](https://arxiv.org/abs/1805.06605). ICLR 2018.
@@ -125,7 +129,7 @@
 
 #### Both
 
-**[1]** Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li and Wenchang Shi. [Deep textclassification can be fooled](https://arxiv.org/abs/1704.08006). IJCAI 2018. 
+**[1]** Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li and Wenchang Shi. [Deep text classification can be fooled](https://arxiv.org/abs/1704.08006). IJCAI 2018. 
 
 **[2]** Jinfeng Li, Shouling Ji, Tianyu Du, Bo Li and Ting Wang. [TextBugger: Generating Adversarial Text Against Real-world Applications](https://arxiv.org/abs/1812.05271). NDSS 2019.
 
