@@ -63,6 +63,9 @@
 **[6]** Hang Yu, Aishan Liu, Xianglong Liu, Gengchao Li, Ping Luo, Ran Cheng, Jichen Yang and Chongzhi Zhang. [PDA: Progressive Data Augmentation for General Robustness of Deep Neural Networks](https://arxiv.org/abs/1909.04839). arXiv Preprint arXiv:1909.04839.
 
 **[7]** Chuanbiao Song, Kun He, Jiadong Lin, Liwei Wang and John E. Hopcroft. [Robust Local Features for Improving the Generalization of Adversarial Training](https://arxiv.org/abs/1909.10147). ICLR 2020.
+
+**[8]** Hongyang Zhang, Yaodong Yu, Jiantao Jiao, Eric P. Xing, Laurent El Ghaoui, Michael I. Jordan. [Theoretically Principled Trade-off between Robustness and Accuracy](https://arxiv.org/abs/1901.08573). ICML 2019.
+
 #### GAN-Based Defense
 
 **[1]** Pouya Samangouei, Maya Kabkab and Rama Chellappa. [Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models](https://arxiv.org/abs/1805.06605). ICLR 2018.
