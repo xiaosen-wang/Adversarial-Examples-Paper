@@ -149,6 +149,9 @@
 
 **[1]** Danish Pruthi, Bhuwan Dhingra and Zachary C. Lipton. [Combating Adversarial Misspellings with Robust Word Recognition](https://arxiv.org/abs/1905.11268). ACL 2019.
 
+**[2]** Hui Liu, Yongzheng Zhang, Yipeng Wang, Zheng Lin, Yige Chen. [Joint Character-level Word Embedding and Adversarial Stability Training to
+Defend Adversarial Text](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuH.1396.pdf). AAAI 2020.
+
 #### Word-Level
 
 **[1]** Ishai Rosenberg, Asaf Shabtai, Yuval Elovici and Lior Rokach. [Defense Methods Against Adversarial Examples for Recurrent Neural Networks](https://arxiv.org/abs/1901.09963). arXiv Preprint arXiv:1901.09963 2019.
