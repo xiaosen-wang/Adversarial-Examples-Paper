@@ -149,8 +149,7 @@
 
 **[1]** Danish Pruthi, Bhuwan Dhingra and Zachary C. Lipton. [Combating Adversarial Misspellings with Robust Word Recognition](https://arxiv.org/abs/1905.11268). ACL 2019.
 
-**[2]** Hui Liu, Yongzheng Zhang, Yipeng Wang, Zheng Lin, Yige Chen. [Joint Character-level Word Embedding and Adversarial Stability Training to
-Defend Adversarial Text](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuH.1396.pdf). AAAI 2020.
+**[2]** Hui Liu, Yongzheng Zhang, Yipeng Wang, Zheng Lin, Yige Chen. [Joint Character-level Word Embedding and Adversarial Stability Training to Defend Adversarial Text](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuH.1396.pdf). AAAI 2020.
 
 #### Word-Level
 
@@ -167,3 +166,5 @@ Defend Adversarial Text](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuH.1396.
 #### Certified defense
 
 **[1]** Robin Jia, Aditi Raghunathan, Kerem Göksel and Percy Liang. [Certified Robustness to Adversarial Word Substitutions](https://arxiv.org/abs/1909.00986). EMNLP-IJCNLP 2019.
+
+**[2]** Po-Sen Huang, Robert Stanforth, Johannes Welbl, Chris Dyer, Dani Yogatama, Sven Gowal, Krishnamurthy Dvijotham, Pushmeet Kohli. [Achieving Verified Robustness to Symbol Substitutions via Interval Bound Propagation](https://arxiv.org/abs/1909.01492). EMNLP-IJCNLP 2019.
