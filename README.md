@@ -130,6 +130,8 @@
 
 **[9]** Xiaosen Wang, Hao Jin and Kun He. [Natural Language Adversarial Attacks and Defenses in Word Level](https://arxiv.org/abs/1909.06723). arXiv Preprint arXiv:1909.06723 2019.
 
+**[10]** Suranjana Samanta and Sameep Mehta. [Towards Crafting Text Adversarial Samples](​https://arxiv.org/pdf/1707.02812.pdf). arXiv Preprint arXiv:1707.02812 2017.
+
 #### Both
 
 **[1]** Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li and Wenchang Shi. [Deep text classification can be fooled](https://arxiv.org/abs/1704.08006). IJCAI 2018. 
