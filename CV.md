@@ -14,3 +14,6 @@ Yair Carmon, Aditi Raghunathan, Ludwig Schmidt, Percy Liang and John C. Duchi. [
 Jonathan Uesato, Jean-Baptiste Alayrac, Po-Sen Huang, Robert Stanforth, Alhussein Fawzi and Pushmeet Kohli. [Are Labels Required for Improving Adversarial Robustness?](https://arxiv.org/abs/1905.13725). arXiv Preprint arXiv:1905.13725.
 
 Alvin Chan, Yi Tay, Yew Soon Ong and Jie Fu. [Jacobian Adversarially Regularized Networks for Robustness](https://arxiv.org/abs/1912.10185). ICLR 2020.
+
+## Others
+Haohan Wang, Xindi Wu, Zeyi Huang, Eric P. Xing. [High Frequency Component Helps Explain the Generalization of Convolutional Neural Networks](https://arxiv.org/abs/1905.13545). CVPR 2020.
