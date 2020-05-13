@@ -66,6 +66,8 @@
 
 **[8]** Hongyang Zhang, Yaodong Yu, Jiantao Jiao, Eric P. Xing, Laurent El Ghaoui, Michael I. Jordan. [Theoretically Principled Trade-off between Robustness and Accuracy](https://arxiv.org/abs/1901.08573). ICML 2019.
 
+**[9]** Yuanhao Xiong and Cho-Jui Hsieh. [Improved Adversarial Training via Learned Optimizer](https://arxiv.org/abs/2004.12227). arXiv Preprint arXiv:2004.12227.
+
 #### GAN-Based Defense
 
 **[1]** Pouya Samangouei, Maya Kabkab and Rama Chellappa. [Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models](https://arxiv.org/abs/1805.06605). ICLR 2018.
