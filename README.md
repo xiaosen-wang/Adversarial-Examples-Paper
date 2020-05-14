@@ -68,6 +68,8 @@
 
 **[9]** Yuanhao Xiong and Cho-Jui Hsieh. [Improved Adversarial Training via Learned Optimizer](https://arxiv.org/abs/2004.12227). arXiv Preprint arXiv:2004.12227.
 
+**[10]** Pranjal Awasthi, Natalie Frank and Mehryar Mohri. [Adversarial Learning Guarantees for Linear Hypotheses and Neural Networks](https://arxiv.org/abs/2004.13617). arXiv Preprint arXiv:2004.13617.
+
 #### GAN-Based Defense
 
 **[1]** Pouya Samangouei, Maya Kabkab and Rama Chellappa. [Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models](https://arxiv.org/abs/1805.06605). ICLR 2018.
