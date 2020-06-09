@@ -70,6 +70,8 @@
 
 **[10]** Pranjal Awasthi, Natalie Frank and Mehryar Mohri. [Adversarial Learning Guarantees for Linear Hypotheses and Neural Networks](https://arxiv.org/abs/2004.13617). arXiv Preprint arXiv:2004.13617.
 
+**[11]** Yisen Wang, Difan Zou, Jinfeng Yi, James Bailey, Xingjun Ma and Quanquan Gu. [Improving Adversarial Robustness Requires Revisiting Misclassified Examples](https://openreview.net/forum?id=rklOg6EFwS). ICLR 2020.
+
 #### GAN-Based Defense
 
 **[1]** Pouya Samangouei, Maya Kabkab and Rama Chellappa. [Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models](https://arxiv.org/abs/1805.06605). ICLR 2018.
