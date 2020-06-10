@@ -1,27 +1,16 @@
 # Newest Paper Collections of Adversarial Examples in Natural Language Processing
 
+## ACL 2020
 
-## ArXiv
-**[1]** Xiaosen Wang, Hao Jin and Kun He. [Natural Language Adversarial Attacks and Defenses in Word Level](https://arxiv.org/abs/1909.06723). arXiv Preprint arXiv:1909.06723 2019.
+**[1]** Wei Zou, Shujian Huang, Jun Xie, Xinyu Dai and Jiajun Chen. [A Reinforced Generation of Adversarial Examples for Neural Machine Translation](https://arxiv.org/abs/1911.03677). ACL 2020.
 
-**[2]** Samuel Barham and Soheil Feizi. [Interpretable Adversarial Training for Text](https://arxiv.org/abs/1905.12864). arXiv Preprint arXiv:1905.12864 2019.
+**[2]** Yong Cheng, Lu Jiang, Wolfgang Macherey and Jacob Eisenstein. [AdvAug: Robust Adversarial Augmentation for Neural Machine Translation](https://www.aclweb.org/anthology/P19-1425.pdf). ACL 2020.
 
-**[3]** Di Jin, Zhijing Jin, Joey Tianyi Zhou and Peter Szolovits. [Is BERT Really Robust? Natural Language Attack on Text Classification and Entailment](https://arxiv.org/abs/1907.11932). arXiv Preprint arXiv:1907.11932 2019.
+**[3]** Xiaoqing Zheng, Jiehang Zeng, Yi Zhou, Cho-Jui Hsieh, Minhao Cheng and Xuanjing Huang. Evaluating and Enhancing the Robustness of Neural Network-based Dependency Parsing Models with Adversarial Examples. ACL 2020.
 
-## ACL 2019
+**[4]** Erik Jones, Robin Jia, Aditi Raghunathan and Percy Liang. [Robust Encodings: A Framework for Combating Adversarial Typos](https://arxiv.org/abs/2005.01229). ACL 2020.
 
-### Word-level substitution Adversarial Attack
+**[5]** Yuan Zang, Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Meng Zhang, Qun Liu and Maosong Sun. [Word-level Textual Adversarial Attacking as Combinatorial Optimization](https://arxiv.org/abs/1910.12196). ACL 2020.
 
-**[1]** Shuhuai Ren, Yihe Deng, Kun He and Wanxiang Che. [Generating Natural Language Adversarial Examples through Probability Weighted Word Saliency](https://www.aclweb.org/anthology/P19-1103). ACL 2019.
+**[6]** Mao Ye, Chengyue Gong and Qiang Liu. [SAFER: A Structure-free Approach for Certified Robustness to Adversarial Word Substitutions](https://arxiv.org/abs/2005.14424). ACL 2020.
 
-**[2]** Huangzhao Zhang, Hao Zhou, Ning Miao and Lei Li. [Generating Fluent Adversarial Examples for Natural Languages](https://www.aclweb.org/anthology/P19-1559). ACL 2019.
-
-**[3]** Yi-Ting Tsai, Min-Chu Yang and Han-Yu Chen. [Adversarial Attack on Sentiment Classification](https://www.aclweb.org/anthology/W19-4824). ACL workshop 2019.
-
-### Chracter-level Defense
-
-**[1]** Danish Pruthi, Bhuwan Dhingra and Zachary C. Lipton. [Combating Adversarial Misspellings with Robust Word Recognition](https://arxiv.org/abs/1905.11268). ACL 2019.
-
-## CEC 2019
-
-**[1]** Di Li, Danilo Vasconcellos Vargas and Sakurai Kouichi. [Universal Rules for Fooling Deep Neural Networks based Text Classification](https://arxiv.org/abs/1901.07132). CEC 2019.
