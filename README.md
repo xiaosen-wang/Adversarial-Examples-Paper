@@ -72,6 +72,8 @@
 
 **[11]** Yisen Wang, Difan Zou, Jinfeng Yi, James Bailey, Xingjun Ma and Quanquan Gu. [Improving Adversarial Robustness Requires Revisiting Misclassified Examples](https://openreview.net/forum?id=rklOg6EFwS). ICLR 2020.
 
+**[12]** Chang Xiao, Peilin Zhong, Changxi Zheng. [Enhancing Adversarial Defense by k-Winners-Take-All](https://openreview.net/forum?id=Skgvy64tvr). ICLR 2020.
+
 #### GAN-Based Defense
 
 **[1]** Pouya Samangouei, Maya Kabkab and Rama Chellappa. [Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models](https://arxiv.org/abs/1805.06605). ICLR 2018.
