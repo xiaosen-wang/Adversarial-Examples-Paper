@@ -114,6 +114,8 @@
 
 ### Adversarial Attack
 
+**[1]** John X. Morris, Eli Lifland, Jin Yong Yoo and Yanjun Qi. [TextAttack: A Framework for Adversarial Attacks in Natural Language Processing](https://arxiv.org/abs/2005.05909). arXiv Preprint axXiv:2005.05909 2020.
+
 
 #### Character-Level
 
