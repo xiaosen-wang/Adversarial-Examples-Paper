@@ -74,6 +74,10 @@
 
 **[12]** Chang Xiao, Peilin Zhong, Changxi Zheng. [Enhancing Adversarial Defense by k-Winners-Take-All](https://openreview.net/forum?id=Skgvy64tvr). ICLR 2020.
 
+**[13]** Hongyi Zhang, Moustapha Cisse, Yann N. Dauphin and David Lopez-Paz. [Mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412). ICLR 2018.
+
+**[14]** Saehyung Lee, Hyungyu Lee and Sungroh Yoon. [Adversarial Vertex Mixup: Toward Better Adversarially Robust Generalization](https://arxiv.org/abs/2003.02484). CVPR 2020.
+
 #### GAN-Based Defense
 
 **[1]** Pouya Samangouei, Maya Kabkab and Rama Chellappa. [Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models](https://arxiv.org/abs/1805.06605). ICLR 2018.
