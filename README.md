@@ -74,9 +74,7 @@
 
 **[12]** Chang Xiao, Peilin Zhong, Changxi Zheng. [Enhancing Adversarial Defense by k-Winners-Take-All](https://openreview.net/forum?id=Skgvy64tvr). ICLR 2020.
 
-**[13]** Hongyi Zhang, Moustapha Cisse, Yann N. Dauphin and David Lopez-Paz. [Mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412). ICLR 2018.
-
-**[14]** Saehyung Lee, Hyungyu Lee and Sungroh Yoon. [Adversarial Vertex Mixup: Toward Better Adversarially Robust Generalization](https://arxiv.org/abs/2003.02484). CVPR 2020.
+**[13]** Saehyung Lee, Hyungyu Lee and Sungroh Yoon. [Adversarial Vertex Mixup: Toward Better Adversarially Robust Generalization](https://arxiv.org/abs/2003.02484). CVPR 2020.
 
 #### GAN-Based Defense
 
@@ -105,6 +103,10 @@
 
 ## Others
 **[1]** Haohan Wang, Xindi Wu, Zeyi Huang, Eric P. Xing. [High Frequency Component Helps Explain the Generalization of Convolutional Neural Networks](https://arxiv.org/abs/1905.13545). CVPR 2020.
+
+**[2]** Hongyi Zhang, Moustapha Cisse, Yann N. Dauphin and David Lopez-Paz. [Mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412). ICLR 2018.
+
+**[3]** Ludwig Schmidt, Shibani Santurkar, Dimitris Tsipras, Kunal Talwar and Aleksander Mądry. [Adversarially Robust Generalization Requires More Data](https://arxiv.org/abs/1804.11285). NeurIPS 2018.
 
 ## Adversarial Examples in Natural Language Processing
 
