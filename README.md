@@ -41,6 +41,14 @@
 
 **[2]** Xiaosen Wang, Kun He and John E. Hopcroft. [AT-GAN: A Generative Attack Model for Adversarial Transferring on Generative Adversarial Nets](https://arxiv.org/abs/1904.07793). arXiv Preprint arXiv:1904.07793.
 
+#### Others
+
+**[1]** Xiaoyi Dong, Jiangfan Han, Dongdong Chen, Jiayang Liu, Huanyu Bian, Zehua Ma, Hongsheng Li, Xiaogang Wang, Weiming Zhang and Nenghai Yu. [Robust Superpixel-Guided Attentional Adversarial Attack](http://openaccess.thecvf.com/content_CVPR_2020/html/Dong_Robust_Superpixel-Guided_Attentional_Adversarial_Attack_CVPR_2020_paper.html). CVPR 2020.
+
+**[2]** Weibin Wu, Yuxin Su, Xixian Chen, Shenglin Zhao, Irwin King, Michael R. Lyu, Yu-Wing Tai. [Boosting the Transferability of Adversarial Samples via Attention](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Boosting_the_Transferability_of_Adversarial_Samples_via_Attention_CVPR_2020_paper.pdf). CVPR 2020.
+
+
+
 ### Unrecognized Images
 
 **[1]** Anh Nguyen, Jason Yosinski and Jeff Clune. [Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images](https://arxiv.org/abs/1412.1897). CVPR 2015.
