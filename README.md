@@ -47,7 +47,7 @@
 
 **[2]** Weibin Wu, Yuxin Su, Xixian Chen, Shenglin Zhao, Irwin King, Michael R. Lyu, Yu-Wing Tai. [Boosting the Transferability of Adversarial Samples via Attention](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Boosting_the_Transferability_of_Adversarial_Samples_via_Attention_CVPR_2020_paper.pdf). CVPR 2020.
 
-
+**[3]** Linxi Jiang, Xingjun Ma, Zejia Weng, James Bailey and Yu-Gang Jiang. [Imbalanced Gradients: A New Cause of Overestimated Adversarial Robustness](https://arxiv.org/abs/2006.13726). arXiv Preprint arXiv:2006.13726.
 
 ### Unrecognized Images
 
@@ -115,6 +115,10 @@
 **[2]** Hongyi Zhang, Moustapha Cisse, Yann N. Dauphin and David Lopez-Paz. [Mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412). ICLR 2018.
 
 **[3]** Ludwig Schmidt, Shibani Santurkar, Dimitris Tsipras, Kunal Talwar and Aleksander Mądry. [Adversarially Robust Generalization Requires More Data](https://arxiv.org/abs/1804.11285). NeurIPS 2018.
+
+**[4]** Tianyuan Zhang and Zhanxing Zhu. [Interpreting Adversarially Trained Convolutional Neural Networks](https://arxiv.org/abs/1905.09797). ICML 2019.
+
+**[5]** Robert Geirhos, Patricia Rubisch, Claudio Michaelis, Matthias Bethge, Felix A. Wichmann and Wieland Brendel. [ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness](https://arxiv.org/abs/1811.12231). ICLR 2019.
 
 ## Adversarial Examples in Natural Language Processing
 
