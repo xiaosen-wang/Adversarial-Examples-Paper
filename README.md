@@ -16,9 +16,7 @@
 
 **[2]** Cihang Xie, Zhishuai Zhang, Yuyin Zhou, Song Bai, Jianyu Wang, Zhou Ren, and Alan L Yuille. [Improving transferability of adversarial examples with input diversity](https://arxiv.org/abs/1803.06978). CVPR 2019.
 
-**[3]** Jiadong Lin, Chuanbiao Song, Kun He, Liwei Wang, John E. Hopcroft. [Nesterov Accelerated Gradient and Scale Invariance for Improving Transferability of Adversarial Examples](https://arxiv.org/abs/1908.06281). arXiv Preprint arXiv:1908.06281 2019.
-
-**[4]** Lei Wu, Zhanxing Zhu, Cheng Tai and Weinan E. [Enhancing the Transferability of Adversarial Examples with Noise Reduced Gradient](https://arxiv.org/abs/1802.09707). ICLR 2018 rejected. 
+**[3]** Lei Wu, Zhanxing Zhu, Cheng Tai and Weinan E. [Enhancing the Transferability of Adversarial Examples with Noise Reduced Gradient](https://arxiv.org/abs/1802.09707). ICLR 2018 rejected. 
 
 **[4]** Yinpeng Dong, Fangzhou Liao, Tianyu Pang, Hang Su, Jun Zhu, Xiaolin Hu and Jianguo Li. [Boosting Adversarial Attacks with Momentum](https://arxiv.org/abs/1710.06081). CVPR 2018.
 
@@ -35,6 +33,12 @@
 
 **[5]** Tao Bai, Jun Zhao, Jinlin Zhu, Shoudong Han, Jiefeng Chen and Bo Li. [AI-GAN: Attack-Inspired Generation of Adversarial Examples](https://arxiv.org/abs/2002.02196). arXiv Preprint arXiv:2002.02196 2020.
 
+#### Transferability
+**[1]** Jiadong Lin, Chuanbiao Song, Kun He, Liwei Wang, John E. Hopcroft. [Nesterov Accelerated Gradient and Scale Invariance for Improving Transferability of Adversarial Examples](https://arxiv.org/abs/1908.06281). arXiv Preprint arXiv:1908.06281 2019.
+
+**[2]** Weibin Wu, Yuxin Su, Xixian Chen, Shenglin Zhao, Irwin King, Michael R. Lyu, Yu-Wing Tai. [Boosting the Transferability of Adversarial Samples via Attention](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Boosting_the_Transferability_of_Adversarial_Samples_via_Attention_CVPR_2020_paper.pdf). CVPR 2020.
+
+**[3]** Nathan Inkawhich, Kevin Liang, Lawrence Carin and Yiran Chen. [Transferable Perturbations of Deep Feature Distributions](https://openreview.net/forum?id=rJxAo2VYwr). ICLR 2020.
 #### Unrestricted Adversarial Examples
 
 **[1]** Yang Song, Rui Shu, Nate Kushman and Stefano Ermon. [Constructing Unrestricted Adversarial Examples with Generative Models](https://arxiv.org/abs/1805.07894). NeurIPS 2018.
@@ -45,9 +49,7 @@
 
 **[1]** Xiaoyi Dong, Jiangfan Han, Dongdong Chen, Jiayang Liu, Huanyu Bian, Zehua Ma, Hongsheng Li, Xiaogang Wang, Weiming Zhang and Nenghai Yu. [Robust Superpixel-Guided Attentional Adversarial Attack](http://openaccess.thecvf.com/content_CVPR_2020/html/Dong_Robust_Superpixel-Guided_Attentional_Adversarial_Attack_CVPR_2020_paper.html). CVPR 2020.
 
-**[2]** Weibin Wu, Yuxin Su, Xixian Chen, Shenglin Zhao, Irwin King, Michael R. Lyu, Yu-Wing Tai. [Boosting the Transferability of Adversarial Samples via Attention](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Boosting_the_Transferability_of_Adversarial_Samples_via_Attention_CVPR_2020_paper.pdf). CVPR 2020.
-
-**[3]** Linxi Jiang, Xingjun Ma, Zejia Weng, James Bailey and Yu-Gang Jiang. [Imbalanced Gradients: A New Cause of Overestimated Adversarial Robustness](https://arxiv.org/abs/2006.13726). arXiv Preprint arXiv:2006.13726.
+**[2]** Linxi Jiang, Xingjun Ma, Zejia Weng, James Bailey and Yu-Gang Jiang. [Imbalanced Gradients: A New Cause of Overestimated Adversarial Robustness](https://arxiv.org/abs/2006.13726). arXiv Preprint arXiv:2006.13726.
 
 ### Unrecognized Images
 
