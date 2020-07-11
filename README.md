@@ -115,6 +115,8 @@
 
 **[3]** Christian Etmann, Sebastian Lunz, Peter Maass and Carola-Bibiane Schönlieb. [On the Connection Between Adversarial Robustness and Saliency Map Interpretability](https://arxiv.org/abs/1905.04172). ICML 2019.
 
+**[4]** Zhun Deng, Linjun Zhang, Amirata Ghorbani and James Zou. [Improving Adversarial Robustness via Unlabeled Out-of-Domain Data](https://arxiv.org/abs/2006.08476). arXiv Preprint arXiv:2006.08476 2020.
+
 ## Others
 **[1]** Haohan Wang, Xindi Wu, Zeyi Huang, Eric P. Xing. [High Frequency Component Helps Explain the Generalization of Convolutional Neural Networks](https://arxiv.org/abs/1905.13545). CVPR 2020.
 
