@@ -90,6 +90,8 @@
 
 **[15]** Harini Kannan, Alexey Kurakin and Ian Goodfellow. [Adversarial Logit Pairing](https://arxiv.org/abs/1803.06373). arXiv Preprint arXiv:1803.06373.
 
+**[16]** Cihang Xie, Mingxing Tan, Boqing Gong, Alan Yuille and Quoc V. Le. [Smooth Adversarial Training](https://arxiv.org/abs/2006.14536). arXiv Preprint arXiv:2006.14536.
+
 #### GAN-Based Defense
 
 **[1]** Pouya Samangouei, Maya Kabkab and Rama Chellappa. [Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models](https://arxiv.org/abs/1805.06605). ICLR 2018.
