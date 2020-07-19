@@ -130,7 +130,9 @@
 
 **[5]** Robert Geirhos, Patricia Rubisch, Claudio Michaelis, Matthias Bethge, Felix A. Wichmann and Wieland Brendel. [ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness](https://arxiv.org/abs/1811.12231). ICLR 2019.
 
-**[6]** Dong Yin, Raphael Gontijo Lopes, Jonathon Shlens, Ekin D. Cubuk AND Justin Gilmer. [A Fourier Perspective on Model Robustness in Computer Vision](https://arxiv.org/abs/1906.08988). NeurIPS 2019.
+**[6]** Dong Yin, Raphael Gontijo Lopes, Jonathon Shlens, Ekin D. Cubuk and Justin Gilmer. [A Fourier Perspective on Model Robustness in Computer Vision](https://arxiv.org/abs/1906.08988). NeurIPS 2019.
+
+**[7]** Chengzhi Mao, Amogh Gupta, Vikram Nitin, Baishakhi Ray, Shuran Song, Junfeng Yang and Carl Vondrick. [Multitask Learning Strengthens Adversarial Robustness](https://arxiv.org/abs/2007.07236). arXiv Preprint arXiv:2007.07236.
 
 ## Adversarial Examples in Natural Language Processing
 
