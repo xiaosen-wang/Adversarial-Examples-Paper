@@ -92,6 +92,8 @@
 
 **[16]** Cihang Xie, Mingxing Tan, Boqing Gong, Alan Yuille and Quoc V. Le. [Smooth Adversarial Training](https://arxiv.org/abs/2006.14536). arXiv Preprint arXiv:2006.14536.
 
+**[17]** Anh Bui, Trung Le, He Zhao, Paul Montague, Olivier deVel, Tamas Abraham and Dinh Phung. [Improving Adversarial Robustness by Enforcing Local and Global Compactness](https://arxiv.org/abs/2007.05123). ECCV 2020.
+
 #### GAN-Based Defense
 
 **[1]** Pouya Samangouei, Maya Kabkab and Rama Chellappa. [Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models](https://arxiv.org/abs/1805.06605). ICLR 2018.
