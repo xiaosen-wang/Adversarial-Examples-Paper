@@ -20,6 +20,8 @@
 
 **[4]** Yinpeng Dong, Fangzhou Liao, Tianyu Pang, Hang Su, Jun Zhu, Xiaolin Hu and Jianguo Li. [Boosting Adversarial Attacks with Momentum](https://arxiv.org/abs/1710.06081). CVPR 2018.
 
+**[5]** Lianli Gao, Qilong Zhang, Jingkuan Song, Xianglong Liu and Heng Tao Shen. [Patch-wise Attack for Fooling Deep Neural Network](https://arxiv.org/abs/2007.06765). ECCV 2020.
+
 #### GAN-Based Attack
 
 **[1]** Hyrum S. Anderson, Jonathan Woodbridge and Bobby Filar. [DeepDGA: Adversarially-Tuned Domain Generation and Detection](https://arxiv.org/abs/1610.01969) AISec 2016.
@@ -94,6 +96,8 @@
 
 **[17]** Anh Bui, Trung Le, He Zhao, Paul Montague, Olivier deVel, Tamas Abraham and Dinh Phung. [Improving Adversarial Robustness by Enforcing Local and Global Compactness](https://arxiv.org/abs/2007.05123). ECCV 2020.
 
+**[18]** David Stutz, Matthias Hein and Bernt Schiele. [Confidence-Calibrated Adversarial Training: Generalizing to Unseen Attacks](https://arxiv.org/abs/1910.06259). ICML 2020.
+
 #### GAN-Based Defense
 
 **[1]** Pouya Samangouei, Maya Kabkab and Rama Chellappa. [Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models](https://arxiv.org/abs/1805.06605). ICLR 2018.
@@ -135,6 +139,8 @@
 **[6]** Dong Yin, Raphael Gontijo Lopes, Jonathon Shlens, Ekin D. Cubuk and Justin Gilmer. [A Fourier Perspective on Model Robustness in Computer Vision](https://arxiv.org/abs/1906.08988). NeurIPS 2019.
 
 **[7]** Chengzhi Mao, Amogh Gupta, Vikram Nitin, Baishakhi Ray, Shuran Song, Junfeng Yang and Carl Vondrick. [Multitask Learning Strengthens Adversarial Robustness](https://arxiv.org/abs/2007.07236). arXiv Preprint arXiv:2007.07236.
+
+**[8]** Xiao Wang, Siyue Wang, Pin-Yu Chen, Yanzhi Wang, Brian Kulis, Xue Lin and Peter Chin. [Protecting Neural Networks with Hierarchical Random Switching: Towards Better Robustness-Accuracy Trade-off for Stochastic Defenses](https://arxiv.org/abs/1908.07116). IJCAI 2019.
 
 ## Adversarial Examples in Natural Language Processing
 
