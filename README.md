@@ -41,6 +41,9 @@
 **[2]** Weibin Wu, Yuxin Su, Xixian Chen, Shenglin Zhao, Irwin King, Michael R. Lyu, Yu-Wing Tai. [Boosting the Transferability of Adversarial Samples via Attention](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Boosting_the_Transferability_of_Adversarial_Samples_via_Attention_CVPR_2020_paper.pdf). CVPR 2020.
 
 **[3]** Nathan Inkawhich, Kevin Liang, Lawrence Carin and Yiran Chen. [Transferable Perturbations of Deep Feature Distributions](https://openreview.net/forum?id=rJxAo2VYwr). ICLR 2020.
+
+**[4]** Kaizhao Liang, Jacky Y. Zhang, Oluwasanmi Koyejo, Bo Li. [Does Adversarial Transferability Indicate Knowledge Transferability?](https://arxiv.org/abs/2006.14512). arXiv Preprint arXiv:2006.14512 2020.
+
 #### Unrestricted Adversarial Examples
 
 **[1]** Yang Song, Rui Shu, Nate Kushman and Stefano Ermon. [Constructing Unrestricted Adversarial Examples with Generative Models](https://arxiv.org/abs/1805.07894). NeurIPS 2018.
@@ -141,6 +144,8 @@
 **[7]** Chengzhi Mao, Amogh Gupta, Vikram Nitin, Baishakhi Ray, Shuran Song, Junfeng Yang and Carl Vondrick. [Multitask Learning Strengthens Adversarial Robustness](https://arxiv.org/abs/2007.07236). arXiv Preprint arXiv:2007.07236.
 
 **[8]** Xiao Wang, Siyue Wang, Pin-Yu Chen, Yanzhi Wang, Brian Kulis, Xue Lin and Peter Chin. [Protecting Neural Networks with Hierarchical Random Switching: Towards Better Robustness-Accuracy Trade-off for Stochastic Defenses](https://arxiv.org/abs/1908.07116). IJCAI 2019.
+
+**[9]** Matteo Terzi, Alessandro Achille, Marco Maggipinto, Gian Antonio Susto. [Adversarial Training Reduces Information and Improves Transferability](https://arxiv.org/abs/2007.11259). arXiv Preprint arXiv:2007.11259 2020.
 
 ## Adversarial Examples in Natural Language Processing
 
