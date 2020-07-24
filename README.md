@@ -219,6 +219,8 @@
 
 **[2]** Xiaosen Wang, Hao Jin and Kun He. [Natural Language Adversarial Attacks and Defenses in Word Level](https://arxiv.org/abs/1909.06723). arXiv Preprint arXiv:1909.06723 2019.
 
+**[3]** Yi Zhou, Xiaoqing Zheng, Cho-Jui Hsieh, Kai-wei Chang and Xuanjing Huang. [Defense against Adversarial Attacks in NLP via Dirichlet Neighborhood Ensemble](https://arxiv.org/abs/2006.11627). arXiv Preprint arXiv:2006.11627 2020.
+
 #### Both
 
 **[1]** Nestor Rodriguez and Sergio Rojas-Galeano. [Shielding Google's language toxicity model against adversarial attacks](https://arxiv.org/abs/1801.01828). arXiv Preprint arXiv:1801.01828 2018.
