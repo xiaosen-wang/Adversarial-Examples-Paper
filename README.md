@@ -50,6 +50,10 @@
 
 **[2]** Xiaosen Wang, Kun He and John E. Hopcroft. [AT-GAN: A Generative Attack Model for Adversarial Transferring on Generative Adversarial Nets](https://arxiv.org/abs/1904.07793). arXiv Preprint arXiv:1904.07793.
 
+#### Black-box attacks
+
+**[1]** Shuyu Cheng, Yinpeng Dong, Tianyu Pang, Hang Su and Jun Zhu. [Improving Black-box Adversarial Attacks with a Transfer-based Prior](https://arxiv.org/abs/1906.06919). NeurIPS 2019.
+
 #### Others
 
 **[1]** Xiaoyi Dong, Jiangfan Han, Dongdong Chen, Jiayang Liu, Huanyu Bian, Zehua Ma, Hongsheng Li, Xiaogang Wang, Weiming Zhang and Nenghai Yu. [Robust Superpixel-Guided Attentional Adversarial Attack](http://openaccess.thecvf.com/content_CVPR_2020/html/Dong_Robust_Superpixel-Guided_Attentional_Adversarial_Attack_CVPR_2020_paper.html). CVPR 2020.
@@ -101,6 +105,10 @@
 
 **[18]** David Stutz, Matthias Hein and Bernt Schiele. [Confidence-Calibrated Adversarial Training: Generalizing to Unseen Attacks](https://arxiv.org/abs/1910.06259). ICML 2020.
 
+**[19]** Tianyu Pang, Chao Du, and Jun Zhu. [Max-Mahalanobis Linear Discriminant Analysis Networks](http://ml.cs.tsinghua.edu.cn/~jun/pub/mmlda-dnn.pdf). ICML 2018.
+
+
+
 #### GAN-Based Defense
 
 **[1]** Pouya Samangouei, Maya Kabkab and Rama Chellappa. [Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models](https://arxiv.org/abs/1805.06605). ICLR 2018.
@@ -127,6 +135,8 @@
 **[3]** Christian Etmann, Sebastian Lunz, Peter Maass and Carola-Bibiane Schönlieb. [On the Connection Between Adversarial Robustness and Saliency Map Interpretability](https://arxiv.org/abs/1905.04172). ICML 2019.
 
 **[4]** Zhun Deng, Linjun Zhang, Amirata Ghorbani and James Zou. [Improving Adversarial Robustness via Unlabeled Out-of-Domain Data](https://arxiv.org/abs/2006.08476). arXiv Preprint arXiv:2006.08476 2020.
+
+**[5]** Tianyu Pang, Kun Xu, Yinpeng Dong, Chao Du, Ning Chen and Jun Zhu. [Rethinking Softmax Cross-Entropy Loss for Adversarial Robustness](https://arxiv.org/abs/1905.10626). ICLR 2020.
 
 ## Others
 **[1]** Haohan Wang, Xindi Wu, Zeyi Huang, Eric P. Xing. [High Frequency Component Helps Explain the Generalization of Convolutional Neural Networks](https://arxiv.org/abs/1905.13545). CVPR 2020.
