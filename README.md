@@ -36,6 +36,7 @@
 **[5]** Tao Bai, Jun Zhao, Jinlin Zhu, Shoudong Han, Jiefeng Chen and Bo Li. [AI-GAN: Attack-Inspired Generation of Adversarial Examples](https://arxiv.org/abs/2002.02196). arXiv Preprint arXiv:2002.02196 2020.
 
 #### Transferability
+
 **[1]** Jiadong Lin, Chuanbiao Song, Kun He, Liwei Wang, John E. Hopcroft. [Nesterov Accelerated Gradient and Scale Invariance for Improving Transferability of Adversarial Examples](https://arxiv.org/abs/1908.06281). arXiv Preprint arXiv:1908.06281 2019.
 
 **[2]** Weibin Wu, Yuxin Su, Xixian Chen, Shenglin Zhao, Irwin King, Michael R. Lyu, Yu-Wing Tai. [Boosting the Transferability of Adversarial Samples via Attention](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Boosting_the_Transferability_of_Adversarial_Samples_via_Attention_CVPR_2020_paper.pdf). CVPR 2020.
@@ -43,6 +44,14 @@
 **[3]** Nathan Inkawhich, Kevin Liang, Lawrence Carin and Yiran Chen. [Transferable Perturbations of Deep Feature Distributions](https://openreview.net/forum?id=rJxAo2VYwr). ICLR 2020.
 
 **[4]** Kaizhao Liang, Jacky Y. Zhang, Oluwasanmi Koyejo, Bo Li. [Does Adversarial Transferability Indicate Knowledge Transferability?](https://arxiv.org/abs/2006.14512). arXiv Preprint arXiv:2006.14512 2020.
+
+**[5]** Junhua Zou, Zhisong Pan, Junyang Qiu, Xin Liu, Ting Rui, Wei Li. [Improving the Transferability of Adversarial Examples with Resized-Diverse-Inputs, Diversity-Ensemble and Region Fitting](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670562.pdf). ECCV 2020.
+
+**[6]** Cihang Xie, Zhishuai Zhang, Yuyin Zhou, Song Bai, Jianyu Wang, Zhou Ren, Alan Yuille. [Improving Transferability of Adversarial Examples with Input Diversity](https://arxiv.org/abs/1803.06978). CVPR 2019.
+
+**[7]** Yinpeng Dong, Tianyu Pang, Hang Su, Jun Zhu. [Evading Defenses to Transferable Adversarial Examples by Translation-Invariant Attacks](https://arxiv.org/abs/1904.02884). CVPR 2019.
+
+**[8]** Yinpeng Dong, Fangzhou Liao, Tianyu Pang, Hang Su, Jun Zhu, Xiaolin Hu, Jianguo Li. [Boosting Adversarial Attacks with Momentum](https://arxiv.org/abs/1710.06081). CVPR 2018.
 
 #### Unrestricted Adversarial Examples
 
