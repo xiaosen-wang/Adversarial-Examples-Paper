@@ -211,6 +211,8 @@
 
 **[11]** Yuan Zang, Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Meng Zhang, Qun Liu and Maosong Sun. [Word-level Textual Adversarial Attacking as Combinatorial Optimizatio](https://arxiv.org/abs/1910.12196). ACL 2020.
 
+**[12]** Xiaosen Wang, Yichen Yang, Yihe Deng and Kun He. [Adversarial Training with Fast Gradient Projection Method against Synonym Substitution based Text Attacks](https://arxiv.org/abs/2008.03709). AAAI 2021.
+
 #### Both
 
 **[1]** Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li and Wenchang Shi. [Deep text classification can be fooled](https://arxiv.org/abs/1704.08006). IJCAI 2018. 
@@ -239,6 +241,8 @@
 **[2]** Xiaosen Wang, Hao Jin and Kun He. [Natural Language Adversarial Attacks and Defenses in Word Level](https://arxiv.org/abs/1909.06723). arXiv Preprint arXiv:1909.06723 2019.
 
 **[3]** Yi Zhou, Xiaoqing Zheng, Cho-Jui Hsieh, Kai-wei Chang and Xuanjing Huang. [Defense against Adversarial Attacks in NLP via Dirichlet Neighborhood Ensemble](https://arxiv.org/abs/2006.11627). arXiv Preprint arXiv:2006.11627 2020.
+
+**[4]** Xiaosen Wang, Yichen Yang, Yihe Deng and Kun He. [Adversarial Training with Fast Gradient Projection Method against Synonym Substitution based Text Attacks](https://arxiv.org/abs/2008.03709). AAAI 2021.
 
 #### Both
 
