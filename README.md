@@ -116,7 +116,9 @@
 
 **[19]** Tianyu Pang, Chao Du, and Jun Zhu. [Max-Mahalanobis Linear Discriminant Analysis Networks](http://ml.cs.tsinghua.edu.cn/~jun/pub/mmlda-dnn.pdf). ICML 2018.
 
+**[20]** Ali Shafahi, Mahyar Najibi, Amin Ghiasi, Zheng Xu, John Dickerson, Christoph Studer, Larry S. Davis, Gavin Taylor, Tom Goldstein. [Adversarial Training for Free!](https://arxiv.org/abs/1904.12843). NeurIPS 2019.
 
+**[21]** Eric Wong, Leslie Rice, J. Zico Kolter. [Fast is better than free: Revisiting adversarial training](https://arxiv.org/abs/2001.03994). ICLR 2020.
 
 #### GAN-Based Defense
 
@@ -248,10 +250,14 @@
 
 **[1]** Nestor Rodriguez and Sergio Rojas-Galeano. [Shielding Google's language toxicity model against adversarial attacks](https://arxiv.org/abs/1801.01828). arXiv Preprint arXiv:1801.01828 2018.
 
-**[2]** Yichao Zhou, Jyun-Yu Jiang, Kai-Wei Chang and Wei Wang. [Learning to Discriminate Perturbations for Blocking Adversarial Attacks in Text Classification](https://arxiv.org/abs/1909.03084). EMNLP-IJCNLP 2019.
-
 #### Certified defense
 
 **[1]** Robin Jia, Aditi Raghunathan, Kerem Göksel and Percy Liang. [Certified Robustness to Adversarial Word Substitutions](https://arxiv.org/abs/1909.00986). EMNLP-IJCNLP 2019.
 
 **[2]** Po-Sen Huang, Robert Stanforth, Johannes Welbl, Chris Dyer, Dani Yogatama, Sven Gowal, Krishnamurthy Dvijotham, Pushmeet Kohli. [Achieving Verified Robustness to Symbol Substitutions via Interval Bound Propagation](https://arxiv.org/abs/1909.01492). EMNLP-IJCNLP 2019.
+
+### Detection
+
+**[1]** Yichao Zhou, Jyun-Yu Jiang, Kai-Wei Chang and Wei Wang. [Learning to Discriminate Perturbations for Blocking Adversarial Attacks in Text Classification](https://arxiv.org/abs/1909.03084). EMNLP-IJCNLP 2019.
+
+**[2]** Maximilian Mozes, Pontus Stenetorp, Bennett Kleinberg, Lewis D. Griffin. [Frequency-Guided Word Substitutions for Detecting Textual Adversarial Examples](https://arxiv.org/abs/2004.05887). arXiv Preprint arXiv:2004.05887 2020.
