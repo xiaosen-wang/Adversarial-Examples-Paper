@@ -215,6 +215,8 @@
 
 **[12]** Xiaosen Wang, Yichen Yang, Yihe Deng and Kun He. [Adversarial Training with Fast Gradient Projection Method against Synonym Substitution based Text Attacks](https://arxiv.org/abs/2008.03709). AAAI 2021.
 
+**[13]** Linyang Li, Yunfan Shao, Demin Song, Xipeng Qiu and Xuanjing Huang. [Generating Adversarial Examples in Chinese Texts Using Sentence-Pieces](https://arxiv.org/abs/2012.14769). arXiv Preprint arXiv:2012.14769 2020.
+
 #### Both
 
 **[1]** Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li and Wenchang Shi. [Deep text classification can be fooled](https://arxiv.org/abs/1704.08006). IJCAI 2018. 
@@ -245,6 +247,10 @@
 **[3]** Yi Zhou, Xiaoqing Zheng, Cho-Jui Hsieh, Kai-wei Chang and Xuanjing Huang. [Defense against Adversarial Attacks in NLP via Dirichlet Neighborhood Ensemble](https://arxiv.org/abs/2006.11627). arXiv Preprint arXiv:2006.11627 2020.
 
 **[4]** Xiaosen Wang, Yichen Yang, Yihe Deng and Kun He. [Adversarial Training with Fast Gradient Projection Method against Synonym Substitution based Text Attacks](https://arxiv.org/abs/2008.03709). AAAI 2021.
+
+**[5]** Rishabh Maheshwary, Saket Maheshwary and Vikram Pudi. [Generating Natural Language Attacks in a Hard Label Black Box Setting](https://arxiv.org/abs/2012.14956). AAAI 2021.
+
+**[6]** Chenglei Si, Zhengyan Zhang, Fanchao Qi, Zhiyuan Liu, Yasheng Wang, Qun Liu, Maosong Sun. [Better Robustness by More Coverage: Adversarial Training with Mixup Augmentation for Robust Fine-tuning](https://arxiv.org/abs/2012.15699). arXiv Preprint arXiv:2012.15699 2020.
 
 #### Both
 
