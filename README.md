@@ -63,6 +63,18 @@
 
 **[1]** Shuyu Cheng, Yinpeng Dong, Tianyu Pang, Hang Su and Jun Zhu. [Improving Black-box Adversarial Attacks with a Transfer-based Prior](https://arxiv.org/abs/1906.06919). NeurIPS 2019.
 
+#### Hard-label attacks
+
+**[1]** Wieland Brendel, Jonas Rauber and Matthias Bethge. [Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models](https://arxiv.org/abs/1712.04248). ICLR 2018.
+
+**[2]** Andrew Ilyas, Logan Engstrom, Anish Athalye and Jessy Lin. [Black-box Adversarial Attacks with Limited Queries and Information](https://arxiv.org/abs/1804.08598). ICML 2018.
+
+**[3]** Yinpeng Dong, Hang Su, Baoyuan Wu, Zhifeng Li, Wei Liu, Tong Zhang and Jun Zhu. [Efficient Decision-based Black-box Adversarial Attacks on Face Recognition](https://arxiv.org/abs/1904.04433). CVPR 2019.
+
+**[4]** Minhao Cheng, Simranjit Singh, Patrick Chen, Pin-Yu Chen, Sijia Liu and Cho-Jui Hsieh. [Sign-OPT: A Query-Efficient Hard-label Adversarial Attack](https://arxiv.org/abs/1909.10773). ICLR 2020.
+
+**[5]** Weilun Chen, Zhaoxiang Zhang, Xiaolin Hu, and Baoyuan Wu. [Boosting Decision-based Black-box Adversarial Attacks with Random Sign Flip](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600273.pdf). ECCV 2020. 
+
 #### Others
 
 **[1]** Xiaoyi Dong, Jiangfan Han, Dongdong Chen, Jiayang Liu, Huanyu Bian, Zehua Ma, Hongsheng Li, Xiaogang Wang, Weiming Zhang and Nenghai Yu. [Robust Superpixel-Guided Attentional Adversarial Attack](http://openaccess.thecvf.com/content_CVPR_2020/html/Dong_Robust_Superpixel-Guided_Attentional_Adversarial_Attack_CVPR_2020_paper.html). CVPR 2020.
