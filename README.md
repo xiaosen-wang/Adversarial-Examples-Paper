@@ -37,7 +37,7 @@
 
 #### Transferability
 
-**[1]** Jiadong Lin, Chuanbiao Song, Kun He, Liwei Wang, John E. Hopcroft. [Nesterov Accelerated Gradient and Scale Invariance for Improving Transferability of Adversarial Examples](https://arxiv.org/abs/1908.06281). arXiv Preprint arXiv:1908.06281 2019.
+**[1]** Jiadong Lin, Chuanbiao Song, Kun He, Liwei Wang, John E. Hopcroft. [Nesterov Accelerated Gradient and Scale Invariance for Improving Transferability of Adversarial Examples](https://arxiv.org/abs/1908.06281). ICLR 2020.
 
 **[2]** Weibin Wu, Yuxin Su, Xixian Chen, Shenglin Zhao, Irwin King, Michael R. Lyu, Yu-Wing Tai. [Boosting the Transferability of Adversarial Samples via Attention](http://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Boosting_the_Transferability_of_Adversarial_Samples_via_Attention_CVPR_2020_paper.pdf). CVPR 2020.
 
@@ -53,6 +53,10 @@
 
 **[8]** Yinpeng Dong, Fangzhou Liao, Tianyu Pang, Hang Su, Jun Zhu, Xiaolin Hu, Jianguo Li. [Boosting Adversarial Attacks with Momentum](https://arxiv.org/abs/1710.06081). CVPR 2018.
 
+**[9]** Xiaosen Wang, Xuanran He, Jingdong Wang, Kun He. [Admix: Enhancing the Transferability of Adversarial Attacks](https://arxiv.org/abs/2102.00436). arXiv Preprint arXiv:2102.00436 2021.
+
+**[10]** Xiaosen Wang, Kun He. [Enhancing the Transferability of Adversarial Attacks through Variance Tuning](https://xiaosen-wang.github.io/publication/variancetuning/VT.pdf). CVPR 2021.
+
 #### Unrestricted Adversarial Examples
 
 **[1]** Yang Song, Rui Shu, Nate Kushman and Stefano Ermon. [Constructing Unrestricted Adversarial Examples with Generative Models](https://arxiv.org/abs/1805.07894). NeurIPS 2018.
@@ -61,7 +65,15 @@
 
 #### Black-box attacks
 
-**[1]** Shuyu Cheng, Yinpeng Dong, Tianyu Pang, Hang Su and Jun Zhu. [Improving Black-box Adversarial Attacks with a Transfer-based Prior](https://arxiv.org/abs/1906.06919). NeurIPS 2019.
+**[1]** Pin-Yu Chen, Huan Zhang, Yash Sharma, Jinfeng Yi, Cho-Jui Hsieh. [ZOO: Zeroth Order Optimization based Black-box Attacks to Deep Neural Networks without Training Substitute Models](https://arxiv.org/abs/1708.03999). ACM Workshop on Artificial Intelligence and Security (AISec) 2017.
+
+**[2]** Andrew Ilyas, Logan Engstrom, Anish Athalye, Jessy Lin. [Black-box Adversarial Attacks with Limited Queries and Information](https://arxiv.org/abs/1804.08598). ICML 2018.
+
+**[3]** Andrew Ilyas, Logan Engstrom, Aleksander Madry. [Prior Convictions: Black-Box Adversarial Attacks with Bandits and Priors](https://arxiv.org/abs/1807.07978). ICLR 2019.
+
+**[4]** Arjun Nitin Bhagoji, Warren He, Bo Li, Dawn Song. [Practical Black-box Attacks on Deep Neural Networks using Efficient Query Mechanisms](https://openaccess.thecvf.com/content_ECCV_2018/papers/Arjun_Nitin_Bhagoji_Practical_Black-box_Attacks_ECCV_2018_paper.pdf). ECCV 2018.
+
+**[5]** Shuyu Cheng, Yinpeng Dong, Tianyu Pang, Hang Su and Jun Zhu. [Improving Black-box Adversarial Attacks with a Transfer-based Prior](https://arxiv.org/abs/1906.06919). NeurIPS 2019.
 
 #### Hard-label attacks
 
@@ -71,9 +83,15 @@
 
 **[3]** Yinpeng Dong, Hang Su, Baoyuan Wu, Zhifeng Li, Wei Liu, Tong Zhang and Jun Zhu. [Efficient Decision-based Black-box Adversarial Attacks on Face Recognition](https://arxiv.org/abs/1904.04433). CVPR 2019.
 
-**[4]** Minhao Cheng, Simranjit Singh, Patrick Chen, Pin-Yu Chen, Sijia Liu and Cho-Jui Hsieh. [Sign-OPT: A Query-Efficient Hard-label Adversarial Attack](https://arxiv.org/abs/1909.10773). ICLR 2020.
+**[4]** Minhao Cheng, Thong Le, Pin-Yu Chen, Jinfeng Yi, Huan Zhang and Cho-Jui Hsieh. [Query-Efficient Hard-label Black-box Attack:An Optimization-based Approach](https://arxiv.org/abs/1807.04457). ICLR 2019.
 
-**[5]** Weilun Chen, Zhaoxiang Zhang, Xiaolin Hu, and Baoyuan Wu. [Boosting Decision-based Black-box Adversarial Attacks with Random Sign Flip](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600273.pdf). ECCV 2020. 
+**[5]** Minhao Cheng, Simranjit Singh, Patrick Chen, Pin-Yu Chen, Sijia Liu and Cho-Jui Hsieh. [Sign-OPT: A Query-Efficient Hard-label Adversarial Attack](https://arxiv.org/abs/1909.10773). ICLR 2020.
+
+**[6]** Weilun Chen, Zhaoxiang Zhang, Xiaolin Hu, and Baoyuan Wu. [Boosting Decision-based Black-box Adversarial Attacks with Random Sign Flip](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600273.pdf). ECCV 2020. 
+
+**[7]** Yujia Liu, Seyed-Mohsen Moosavi-Dezfooli, Pascal Frossard. [A Geometry-Inspired Decision-Based Attack](https://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_A_Geometry-Inspired_Decision-Based_Attack_ICCV_2019_paper.pdf). ICCV 2019.
+
+**[8]** Thibault Maho, Teddy Furon, Erwan Le Merrer. [SurFree: a fast surrogate-free black-box attack](https://arxiv.org/abs/2011.12807). arXiv Preprint arXiv:2011.12807.
 
 #### Others
 
