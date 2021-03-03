@@ -148,7 +148,23 @@
 
 **[20]** Ali Shafahi, Mahyar Najibi, Amin Ghiasi, Zheng Xu, John Dickerson, Christoph Studer, Larry S. Davis, Gavin Taylor, Tom Goldstein. [Adversarial Training for Free!](https://arxiv.org/abs/1904.12843). NeurIPS 2019.
 
-**[21]** Eric Wong, Leslie Rice, J. Zico Kolter. [Fast is better than free: Revisiting adversarial training](https://arxiv.org/abs/2001.03994). ICLR 2020.
+**[21]** Yinpeng Dong, Zhijie Deng, Tianyu Pang, Hang Su, Jun Zhu. [Adversarial Distributional Training for Robust Deep Learning](https://arxiv.org/abs/2002.05999). NeurIPS 2020.
+
+**[22]** Alex Lamb, Vikas Verma, Juho Kannala, Yoshua Bengio. [Interpolated Adversarial Training: Achieving Robust Neural Networks without Sacrificing Too Much Accuracy]. ACM AISec 2019.
+
+**[23]** Alfred Laugros, Alice Caplier, Matthieu Ospici. [Addressing Neural Network Robustness with Mixup and Targeted Labeling Adversarial Training](https://arxiv.org/abs/2008.08384). ECCV 2019.
+
+**[24]** Saehyung Lee, Hyungyu Lee, Sungroh Yoon. [Adversarial Vertex Mixup: Toward Better Adversarially Robust Generalization](https://arxiv.org/abs/2003.02484). CVPR 2020.
+
+**[25]** Tao Bai, Jinqi Luo, Jun Zhao, Bihan Wen, Qian Wang. [Recent Advances in Adversarial Training for Adversarial Robustness](https://arxiv.org/abs/2102.01356). arXiv Preprint arXiv:2102.01356 2021.
+
+#### Fast Adversarial Training
+
+**[1]** Eric Wong, Leslie Rice, J. Zico Kolter. [Fast is better than free: Revisiting adversarial training](https://arxiv.org/abs/2001.03994). ICLR 2020.
+
+**[2]** Maksym Andriushchenko, Nicolas Flammarion. [Understanding and Improving Fast Adversarial Training](https://arxiv.org/abs/2007.02617). NeurIPS 2020.
+
+**[3]** Hoki Kim, Woojin Lee, Jaewook Lee. [Understanding Catastrophic Overfitting in Single-step Adversarial Training](https://arxiv.org/abs/2010.01799). AAAI 2021.
 
 #### GAN-Based Defense
 
