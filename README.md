@@ -263,6 +263,10 @@
 
 **[13]** Linyang Li, Yunfan Shao, Demin Song, Xipeng Qiu and Xuanjing Huang. [Generating Adversarial Examples in Chinese Texts Using Sentence-Pieces](https://arxiv.org/abs/2012.14769). arXiv Preprint arXiv:2012.14769 2020.
 
+**[14]** Bushra Sabir, M. Ali Babar, Raj Gaire. [ReinforceBug: A Framework to Generate Adversarial Textual Examples](https://arxiv.org/abs/2103.08306). NAACL 2021.
+
+**[15]** Xuanli He, Lingjuan Lyu, Qiongkai Xu, Licaho Sun. [Model Extraction and Adversarial Transferability, Your BERT is Vulnerable!](https://arxiv.org/pdf/2103.10013v1.pdf). NAACL 2021.
+
 #### Both
 
 **[1]** Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li and Wenchang Shi. [Deep text classification can be fooled](https://arxiv.org/abs/1704.08006). IJCAI 2018. 
@@ -297,6 +301,8 @@
 **[5]** Rishabh Maheshwary, Saket Maheshwary and Vikram Pudi. [Generating Natural Language Attacks in a Hard Label Black Box Setting](https://arxiv.org/abs/2012.14956). AAAI 2021.
 
 **[6]** Chenglei Si, Zhengyan Zhang, Fanchao Qi, Zhiyuan Liu, Yasheng Wang, Qun Liu, Maosong Sun. [Better Robustness by More Coverage: Adversarial Training with Mixup Augmentation for Robust Fine-tuning](https://arxiv.org/abs/2012.15699). arXiv Preprint arXiv:2012.15699 2020.
+
+**[7]** Xinshuai Dong, Xinshuai_Dong, Anh Tuan Luu, Rongrong Ji, Hong Liu. [Towards Robustness Against Natural Language Word Substitutions](https://openreview.net/forum?id=ks5nebunVn_). ICLR 2021.
 
 #### Both
 
