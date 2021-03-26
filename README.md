@@ -57,6 +57,8 @@
 
 **[10]** Xiaosen Wang, Kun He. [Enhancing the Transferability of Adversarial Attacks through Variance Tuning](https://xiaosen-wang.github.io/publication/variancetuning/VT.pdf). CVPR 2021.
 
+**[11]** Xiaosen Wang, Jiadong Lin, Han Hu, Jingdong Wang, Kun He. [Boosting Adversarial Transferability through Enhanced Momentum](https://arxiv.org/abs/2103.10609). arXiv Preprint arXiv:2103.10609 2021.
+
 #### Unrestricted Adversarial Examples
 
 **[1]** Yang Song, Rui Shu, Nate Kushman and Stefano Ermon. [Constructing Unrestricted Adversarial Examples with Generative Models](https://arxiv.org/abs/1805.07894). NeurIPS 2018.
@@ -157,6 +159,13 @@
 **[24]** Saehyung Lee, Hyungyu Lee, Sungroh Yoon. [Adversarial Vertex Mixup: Toward Better Adversarially Robust Generalization](https://arxiv.org/abs/2003.02484). CVPR 2020.
 
 **[25]** Tao Bai, Jinqi Luo, Jun Zhao, Bihan Wen, Qian Wang. [Recent Advances in Adversarial Training for Adversarial Robustness](https://arxiv.org/abs/2102.01356). arXiv Preprint arXiv:2102.01356 2021.
+
+**[26]** Leslie Rice, Eric Wong, J. Zico Kolter. [Overfitting in adversarially robust deep learning](https://arxiv.org/abs/2002.11569). ICML 2020.
+
+**[27]** Jason Bunk, Srinjoy Chattopadhyay, B. S. Manjunath, Shivkumar Chandrasekaran. [Adversarially Optimized Mixup for Robust Classification](https://arxiv.org/abs/2103.11589).  arXiv Preprint arXiv:2103.11589 2021.
+
+**[28]** Zuxuan Wu, Tom Goldstein, Larry S. Davis, Ser-Nam Lim. [THAT: Two Head Adversarial Training for Improving Robustness at Scale](https://arxiv.org/abs/2103.13612). arXiv Preprint arXiv:2103.13612 2021.
+
 
 #### Fast Adversarial Training
 
