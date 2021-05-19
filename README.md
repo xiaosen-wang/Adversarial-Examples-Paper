@@ -278,6 +278,8 @@
 
 **[15]** Xuanli He, Lingjuan Lyu, Qiongkai Xu, Licaho Sun. [Model Extraction and Adversarial Transferability, Your BERT is Vulnerable!](https://arxiv.org/pdf/2103.10013v1.pdf). NAACL 2021.
 
+**[16]** Zhao Meng, Roger Wattenhofer. [A Geometry-Inspired Attack for Generating Natural Language Adversarial Examples](https://arxiv.org/abs/2010.01345). COLING 2020.
+
 #### Both
 
 **[1]** Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li and Wenchang Shi. [Deep text classification can be fooled](https://arxiv.org/abs/1704.08006). IJCAI 2018. 
@@ -324,6 +326,8 @@
 **[1]** Robin Jia, Aditi Raghunathan, Kerem Göksel and Percy Liang. [Certified Robustness to Adversarial Word Substitutions](https://arxiv.org/abs/1909.00986). EMNLP-IJCNLP 2019.
 
 **[2]** Po-Sen Huang, Robert Stanforth, Johannes Welbl, Chris Dyer, Dani Yogatama, Sven Gowal, Krishnamurthy Dvijotham, Pushmeet Kohli. [Achieving Verified Robustness to Symbol Substitutions via Interval Bound Propagation](https://arxiv.org/abs/1909.01492). EMNLP-IJCNLP 2019.
+
+**[3]** Jiehang Zeng, Xiaoqing Zheng, Jianhan Xu, Linyang Li, Liping Yuan, Xuanjing Huang. [Certified Robustness to Text Adversarial Attacks by Randomized [MASK]](https://arxiv.org/abs/2105.03743). ACL Findings 2021.
 
 ### Detection
 
