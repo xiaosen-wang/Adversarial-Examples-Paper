@@ -280,6 +280,12 @@
 
 **[16]** Zhao Meng, Roger Wattenhofer. [A Geometry-Inspired Attack for Generating Natural Language Adversarial Examples](https://arxiv.org/abs/2010.01345). COLING 2020.
 
+**[17]** Rishabh Maheshwary, Saket Maheshwary, Vikram Pudi. [A Strong Baseline for Query Efficient Attacks in a Black Box Setting](https://arxiv.org/pdf/2109.04775.pdf). EMNLP 2021.
+
+**[18]** Yangyi Chen, Jin Su, Wei Wei. [Multi-granularity Textual Adversarial Attack with Behavior Cloning](https://arxiv.org/abs/2109.04367). EMNLP 2021.
+
+**[19]** Shengcai Liu, Ning Lu, Cheng Chen, Ke Tang. [Efficient Combinatorial Optimization for Word-level Adversarial Textual Attack](https://arxiv.org/abs/2109.02229)arXiv Preprint arXiv:2109.02229 2021. 
+
 #### Both
 
 **[1]** Bin Liang, Hongcheng Li, Miaoqiang Su, Pan Bian, Xirong Li and Wenchang Shi. [Deep text classification can be fooled](https://arxiv.org/abs/1704.08006). IJCAI 2018. 
@@ -317,6 +323,8 @@
 
 **[7]** Xinshuai Dong, Xinshuai_Dong, Anh Tuan Luu, Rongrong Ji, Hong Liu. [Towards Robustness Against Natural Language Word Substitutions](https://openreview.net/forum?id=ks5nebunVn_). ICLR 2021.
 
+**[8]** Jin Yong Yoo, Yanjun Qi. [Towards Improving Adversarial Training of NLP Models](https://arxiv.org/abs/2109.00544). EMNLP Findings 2021.
+
 #### Both
 
 **[1]** Nestor Rodriguez and Sergio Rojas-Galeano. [Shielding Google's language toxicity model against adversarial attacks](https://arxiv.org/abs/1801.01828). arXiv Preprint arXiv:1801.01828 2018.
@@ -333,4 +341,6 @@
 
 **[1]** Yichao Zhou, Jyun-Yu Jiang, Kai-Wei Chang and Wei Wang. [Learning to Discriminate Perturbations for Blocking Adversarial Attacks in Text Classification](https://arxiv.org/abs/1909.03084). EMNLP-IJCNLP 2019.
 
-**[2]** Maximilian Mozes, Pontus Stenetorp, Bennett Kleinberg, Lewis D. Griffin. [Frequency-Guided Word Substitutions for Detecting Textual Adversarial Examples](https://arxiv.org/abs/2004.05887). arXiv Preprint arXiv:2004.05887 2020.
+**[2]** Maximilian Mozes, Pontus Stenetorp, Bennett Kleinberg, Lewis D. Griffin. [Frequency-Guided Word Substitutions for Detecting Textual Adversarial Examples](https://arxiv.org/abs/2004.05887). EACL 2021.
+
+**[3]** Xiaosen Wang, Yifeng Xiong, Kun He. [Randomized Substitution and Vote for Textual Adversarial Example Detection](https://arxiv.org/abs/2109.05698). arXiv Preprint arXiv:2109.05698 2021.
