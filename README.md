@@ -55,11 +55,41 @@
 
 **[8]** Yinpeng Dong, Fangzhou Liao, Tianyu Pang, Hang Su, Jun Zhu, Xiaolin Hu, Jianguo Li. [Boosting Adversarial Attacks with Momentum](https://arxiv.org/abs/1710.06081). CVPR 2018.
 
-**[9]** Xiaosen Wang, Xuanran He, Jingdong Wang, Kun He. [Admix: Enhancing the Transferability of Adversarial Attacks](https://arxiv.org/abs/2102.00436). arXiv Preprint arXiv:2102.00436 2021.
+**[9]** Xiaosen Wang, Xuanran He, Jingdong Wang, Kun He. [Admix: Enhancing the Transferability of Adversarial Attacks](https://arxiv.org/abs/2102.00436). ICCV 2021.
 
 **[10]** Xiaosen Wang, Kun He. [Enhancing the Transferability of Adversarial Attacks through Variance Tuning](https://xiaosen-wang.github.io/publication/variancetuning/VT.pdf). CVPR 2021.
 
 **[11]** Xiaosen Wang, Jiadong Lin, Han Hu, Jingdong Wang, Kun He. [Boosting Adversarial Transferability through Enhanced Momentum](https://arxiv.org/abs/2103.10609). arXiv Preprint arXiv:2103.10609 2021.
+
+**[12]** Weibin Wu, Yuxin Su, Michael R. Lyu, Irwin King. [Improving the Transferability of Adversarial Samples With Adversarial Transformations](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Improving_the_Transferability_of_Adversarial_Samples_With_Adversarial_Transformations_CVPR_2021_paper.pdf). CVPR 2020.
+
+**[13]** Zhibo Wang, Hengchang Guo, Zhifei Zhang, Wenxin Liu, Zhan Qin, Kui Ren. [Feature Importance-aware Transferable Adversarial Attacks](https://arxiv.org/abs/2107.14185). ICCV 2021.
+
+# Hard Label Attack
+
+**[1]** Wieland Brendel, Jonas Rauber, Matthias Bethge. [Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models](https://arxiv.org/abs/1712.04248). ICLR 2018.
+
+**[2]** Andrew Ilyas, Logan Engstrom, Anish Athalye, Jessy Lin. [Black-box Adversarial Attacks with Limited Queries and Information](https://arxiv.org/abs/1804.08598). ICML 2018.
+
+**[3]** Minhao Cheng, Thong Le, Pin-Yu Chen, Jinfeng Yi, Huan Zhang, Cho-Jui Hsieh. [Query-Efficient Hard-label Black-box Attack:An Optimization-based Approach](https://arxiv.org/abs/1807.04457). ICLR 2019.
+
+**[4]** Yinpeng Dong, Hang Su, Baoyuan Wu, Zhifeng Li, Wei Liu, Tong Zhang, Jun Zhu. [Efficient Decision-based Black-box Adversarial Attacks on Face Recognition](https://arxiv.org/abs/1904.04433). CVPR 2019.
+
+**[5]** Yujia Liu, Seyed-Mohsen Moosavi-Dezfooli, Pascal Frossard. [A geometry-inspired decision-based attack](https://arxiv.org/abs/1903.10826). ICCV 2019.
+
+**[6]** Jianbo Chen, Michael I. Jordan, Martin J. Wainwright. [HopSkipJumpAttack: A Query-Efficient Decision-Based Attack](https://arxiv.org/abs/1904.02144). SP 2020.
+
+**[7]** Minhao Cheng, Simranjit Singh, Patrick Chen, Pin-Yu Chen, Sijia Liu, Cho-Jui Hsieh. [Sign-OPT: A Query-Efficient Hard-label Adversarial Attack](https://arxiv.org/abs/1909.10773). ICLR 2020.
+
+**[8]** Ali Rahmati, Seyed-Mohsen Moosavi-Dezfooli, Pascal Frossard, Huaiyu Dai. [GeoDA: a geometric framework for black-box adversarial attacks](https://arxiv.org/abs/2003.06468). CVPR 2020.
+
+**[9]** Huichen Li, Xiaojun Xu, Xiaolu Zhang, Shuang Yang, Bo Li. [QEBA: Query-Efficient Boundary-Based Blackbox Attack](https://arxiv.org/abs/2005.14137). CVPR 2020.
+
+**[10]** Weilun Chen, Zhaoxiang Zhang, Xiaolin Hu, Baoyuan Wu. [Boosting Decision-based Black-box Adversarial Attacks with Random Sign Flip](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600273.pdf). ECCV 2020.
+
+**[11]** Thibault Maho, Teddy Furon, Erwan Le Merrer. [SurFree: a fast surrogate-free black-box attack](https://arxiv.org/abs/2011.12807). CVPR 2021.
+
+**[12]** Huichen Li, Linyi Li, Xiaojun Xu, Xiaolu Zhang, Shuang Yang, Bo Li. [Nonlinear Projection Based Gradient Estimation for Query Efficient Blackbox Attacks](https://arxiv.org/abs/2102.13184). AISTATS 2021.
 
 #### Unrestricted Adversarial Examples
 
@@ -324,6 +354,10 @@
 **[7]** Xinshuai Dong, Xinshuai_Dong, Anh Tuan Luu, Rongrong Ji, Hong Liu. [Towards Robustness Against Natural Language Word Substitutions](https://openreview.net/forum?id=ks5nebunVn_). ICLR 2021.
 
 **[8]** Jin Yong Yoo, Yanjun Qi. [Towards Improving Adversarial Training of NLP Models](https://arxiv.org/abs/2109.00544). EMNLP Findings 2021.
+
+**[9]** Rongzhou Bao, Jiayi Wang, Hai Zhao. [Defending Pre-trained Language Models from Adversarial Word Substitutions Without Performance Sacrifice](https://arxiv.org/abs/2105.14553). ACL Findings 2021.
+
+
 
 #### Both
 
