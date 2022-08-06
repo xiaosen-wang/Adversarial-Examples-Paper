@@ -59,7 +59,7 @@
 
 **[10]** Xiaosen Wang, Kun He. [Enhancing the Transferability of Adversarial Attacks through Variance Tuning](https://xiaosen-wang.github.io/publication/variancetuning/VT.pdf). CVPR 2021.
 
-**[11]** Xiaosen Wang, Jiadong Lin, Han Hu, Jingdong Wang, Kun He. [Boosting Adversarial Transferability through Enhanced Momentum](https://arxiv.org/abs/2103.10609). arXiv Preprint arXiv:2103.10609 2021.
+**[11]** Xiaosen Wang, Jiadong Lin, Han Hu, Jingdong Wang, Kun He. [Boosting Adversarial Transferability through Enhanced Momentum](https://arxiv.org/abs/2103.10609). BMVC 2021.
 
 **[12]** Weibin Wu, Yuxin Su, Michael R. Lyu, Irwin King. [Improving the Transferability of Adversarial Samples With Adversarial Transformations](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Improving_the_Transferability_of_Adversarial_Samples_With_Adversarial_Transformations_CVPR_2021_paper.pdf). CVPR 2020.
 
@@ -365,6 +365,8 @@
 
 **[9]** Rongzhou Bao, Jiayi Wang, Hai Zhao. [Defending Pre-trained Language Models from Adversarial Word Substitutions Without Performance Sacrifice](https://arxiv.org/abs/2105.14553). ACL Findings 2021.
 
+**[10]** Yichen Yang, Xiaosen Wang, Kun He. [Robust Textual Embedding against Word-level Adversarial Attacks](https://arxiv.org/abs/2202.13817). UAI 2022.
+
 
 
 #### Both
@@ -385,4 +387,4 @@
 
 **[2]** Maximilian Mozes, Pontus Stenetorp, Bennett Kleinberg, Lewis D. Griffin. [Frequency-Guided Word Substitutions for Detecting Textual Adversarial Examples](https://arxiv.org/abs/2004.05887). EACL 2021.
 
-**[3]** Xiaosen Wang, Yifeng Xiong, Kun He. [Randomized Substitution and Vote for Textual Adversarial Example Detection](https://arxiv.org/abs/2109.05698). arXiv Preprint arXiv:2109.05698 2021.
+**[3]** Xiaosen Wang, Yifeng Xiong, Kun He. [Randomized Substitution and Vote for Textual Adversarial Example Detection](https://arxiv.org/abs/2109.05698). UAI 2022.
