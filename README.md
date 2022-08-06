@@ -91,6 +91,10 @@
 
 **[12]** Huichen Li, Linyi Li, Xiaojun Xu, Xiaolu Zhang, Shuang Yang, Bo Li. [Nonlinear Projection Based Gradient Estimation for Query Efficient Blackbox Attacks](https://arxiv.org/abs/2102.13184). AISTATS 2021.
 
+**[13]** Xiaosen Wang, Zeliang Zhang, Kangheng Tong, Dihong Gong, Kun He, Zhifeng Li, Wei Liu. [Triangle Attack: A Query-efficient Decision-based Adversarial Attack](https://arxiv.org/abs/2112.06569). ECCV 2022.
+
+**[14]** Satya Narayan Shukla, Anit Kumar Sahu, Devin Willmott, J. Zico Kolter. [Simple and Efficient Hard Label Black-box Adversarial Attacks in Low Query Budget Regimes](https://arxiv.org/abs/2007.07210). KDD 2021.
+
 #### Unrestricted Adversarial Examples
 
 **[1]** Yang Song, Rui Shu, Nate Kushman and Stefano Ermon. [Constructing Unrestricted Adversarial Examples with Generative Models](https://arxiv.org/abs/1805.07894). NeurIPS 2018.
@@ -197,6 +201,10 @@
 **[27]** Jason Bunk, Srinjoy Chattopadhyay, B. S. Manjunath, Shivkumar Chandrasekaran. [Adversarially Optimized Mixup for Robust Classification](https://arxiv.org/abs/2103.11589).  arXiv Preprint arXiv:2103.11589 2021.
 
 **[28]** Zuxuan Wu, Tom Goldstein, Larry S. Davis, Ser-Nam Lim. [THAT: Two Head Adversarial Training for Improving Robustness at Scale](https://arxiv.org/abs/2103.13612). arXiv Preprint arXiv:2103.13612 2021.
+
+**[29]** Xiaosen Wang, Bhavya Kailkhura, Krishnaram Kenthapadi, Bo Li. [I-PGD-AT: Efficient Adversarial Training via Imitating Iterative PGD Attack](https://openreview.net/pdf?id=TEt7PsVZux6). openreview 2021.
+
+**[30]** Xiaosen Wang, Chuanbiao Song, Kun He. [Multi-stage Optimization based Adversarial Training](https://arxiv.org/abs/2106.15357). arXiv Preprint arXiv:2106.15357 2021.
 
 
 #### Fast Adversarial Training
